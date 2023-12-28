@@ -1,0 +1,2890 @@
+direction,term_name,ontology,type
+downregulated,3-beta-hydroxy-delta5-steroid dehydrogenase activity,MF,trinotate
+downregulated,3-hydroxyisobutyryl-CoA hydrolase activity,MF,trinotate
+downregulated,3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity,MF,trinotate
+upregulated,acetylgalactosaminyltransferase activity,MF,trinotate
+upregulated,acid secretion,BP,trinotate
+upregulated,actin cytoskeleton,MF,trinotate
+upregulated,actin cytoskeleton,CC,trinotate
+upregulated,actin cytoskeleton,CC,trinotate
+upregulated,actin cytoskeleton,BP,trinotate
+upregulated,actin cytoskeleton,BP,trinotate
+upregulated,actin cytoskeleton,BP,trinotate
+upregulated,actin cytoskeleton,BP,trinotate
+upregulated,actin filament ,CC,trinotate
+upregulated,actin filament ,CC,trinotate
+upregulated,actin filament ,BP,trinotate
+upregulated,actin filament ,BP,trinotate
+upregulated,actin filament ,BP,trinotate
+upregulated,actin filament ,BP,trinotate
+upregulated,actin filament ,BP,trinotate
+upregulated,actin polymerization,BP,trinotate
+regulated,actomyosin,CC,trinotate
+upregulated,actomyosin,CC,trinotate
+upregulated,actomyosin,CC,trinotate
+upregulated,actomyosin,BP,trinotate
+downregulated,metabolism,BP,trinotate
+upregulated,adherens junction,CC,trinotate
+upregulated,adherens junction,CC,trinotate
+upregulated,adherens junction,BP,trinotate
+upregulated,adherens junction,BP,trinotate
+downregulated,adhesion of symbiont to host,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,alpha-ketoacid dehydrogenase activity,MF,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+regulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,uniprot
+regulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+regulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+regulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+regulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+regulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+regulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,MF,trinotate
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+downregulated,amino acid metabolism,,KEGG
+regulated,amino acid metabolism,,KEGG
+upregulated,amino acid transport,MF,trinotate
+upregulated,amino acid transport,MF,trinotate
+upregulated,amino acid transport,BP,trinotate
+upregulated,amino acid transport,BP,trinotate
+upregulated,amino acid transport,BP,trinotate
+upregulated,aminoglycan biosynthesis,BP,trinotate
+upregulated,aminoglycan metabolism,BP,trinotate
+upregulated,aminoglycan metabolism,BP,trinotate
+upregulated,aminophospholipid transport,BP,trinotate
+downregulated,ammonium ion metabolism,BP,trinotate
+upregulated,anchoring junction,CC,trinotate
+upregulated,angiogenesis,BP,trinotate
+upregulated,angiogenesis,BP,trinotate
+upregulated,angiogenesis,BP,trinotate
+upregulated,anion transport,BP,trinotate
+upregulated,anion transport,BP,trinotate
+upregulated,anion:cation symporter activity,MF,trinotate
+upregulated,annulate lamellae,CC,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,apical part of cell,CC,trinotate
+upregulated,apical part of cell,CC,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,apoptosis,BP,trinotate
+upregulated,aromatic compound biosynthesis,BP,trinotate
+upregulated,aromatic compound biosynthesis,BP,trinotate
+downregulated,aromatic compound biosynthesis,BP,trinotate
+upregulated,enzyme activity,BP,trinotate
+upregulated,asymmetric synapse,CC,trinotate
+downregulated,ATP biosynthesis,BP,trinotate
+downregulated,ATP biosynthesis,BP,trinotate
+regulated,ATP biosynthesis,BP,trinotate
+downregulated,ATP biosynthesis,BP,uniprot
+downregulated,ATP metabolism,BP,trinotate
+downregulated,ATP metabolism,BP,trinotate
+regulated,ATP metabolism,BP,trinotate
+downregulated,ATP metabolism,BP,uniprot
+downregulated,ATP biosynthesis,BP,trinotate
+downregulated,ATP biosynthesis,BP,trinotate
+downregulated,ATP biosynthesis,BP,trinotate
+downregulated,ATP biosynthesis,BP,uniprot
+upregulated,ATPase inhibitor activity,MF,trinotate
+upregulated,axon guidance,BP,trinotate
+upregulated,axon guidance,BP,trinotate
+upregulated,axon guidance,BP,trinotate
+upregulated,axonogenesis,BP,trinotate
+upregulated,axonogenesis,BP,trinotate
+upregulated,axonogenesis,CC,trinotate
+upregulated,axonogenesis,CC,trinotate
+upregulated,axonogenesis,BP,trinotate
+upregulated,axonogenesis,BP,trinotate
+upregulated,axonogenesis,BP,trinotate
+upregulated,axonogenesis,BP,trinotate
+regulated,banded collagen fibril,CC,trinotate
+upregulated,banded collagen fibril,CC,trinotate
+upregulated,banded collagen fibril,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,behavior,BP,trinotate
+upregulated,behavior,BP,trinotate
+upregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+regulated,binding,MF,trinotate
+downregulated,binding,MF,uniprot
+downregulated,binding,MF,uniprot
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,uniprot
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,uniprot
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,uniprot
+upregulated,binding,MF,uniprot
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,binding,MF,trinotate
+upregulated,biological adhesion,BP,trinotate
+upregulated,biological adhesion,BP,trinotate
+upregulated,BMP signaling,BP,trinotate
+upregulated,BMP signaling,BP,trinotate
+upregulated,BMP signaling,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+regulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+regulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,brush border,CC,trinotate
+upregulated,brush border,CC,trinotate
+upregulated,brush border,CC,trinotate
+upregulated,calcium ion binding,MF,trinotate
+upregulated,calcium ion transport,BP,trinotate
+upregulated,calcium ion transport,BP,trinotate
+downregulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,,KEGG
+downregulated,carbohydrate metabolism,,KEGG
+regulated,carbohydrate metabolism,,KEGG
+downregulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,BP,trinotate
+regulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,BP,uniprot
+downregulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,BP,trinotate
+regulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,BP,trinotate
+regulated,carbohydrate metabolism,BP,trinotate
+downregulated,carbohydrate metabolism,BP,uniprot
+downregulated,carbohydrate metabolism,BP,uniprot
+upregulated,carboxylic acid transport,BP,trinotate
+upregulated,carboxylic acid transport,BP,trinotate
+downregulated,carboxylic ester hydrolase activity,MF,trinotate
+downregulated,carboxyl-O-methyltransferase activity,MF,trinotate
+upregulated,cargo receptor activity,MF,trinotate
+upregulated,cargo receptor activity,MF,trinotate
+downregulated,carnitine biosynthesis,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,mineralization,BP,trinotate
+upregulated,T cell activation,BP,trinotate
+upregulated,T cell differentiation,BP,trinotate
+upregulated,T cell differentiation,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,MF,trinotate
+upregulated,cell adhesion,MF,trinotate
+upregulated,cell adhesion,,KEGG
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell aggregation,BP,trinotate
+upregulated,cell aggregation,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell chemotaxis,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,uniprot
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell cortex,CC,trinotate
+upregulated,cell cortex,CC,trinotate
+upregulated,cell cycle ,BP,trinotate
+upregulated,cell cycle ,BP,trinotate
+upregulated,cell death,BP,trinotate
+upregulated,cell death,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell development,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+regulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+regulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+regulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+regulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell division,CC,trinotate
+upregulated,cell division,BP,trinotate
+upregulated,cell division,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell fate ,BP,trinotate
+upregulated,cell growth,BP,trinotate
+upregulated,cell growth,BP,trinotate
+upregulated,cell junction,CC,trinotate
+upregulated,cell junction,CC,trinotate
+upregulated,cell junction,BP,trinotate
+upregulated,cell junction,BP,trinotate
+upregulated,cell junction,BP,trinotate
+upregulated,cell junction,CC,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+regulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+regulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell morphogenesis,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell organization,BP,trinotate
+upregulated,cell periphery,CC,trinotate
+upregulated,cell periphery,CC,trinotate
+upregulated,cell population maintenance,BP,trinotate
+upregulated,cell population maintenance,BP,trinotate
+upregulated,cell population maintenance,BP,trinotate
+upregulated,cell population maintenance,BP,trinotate
+upregulated,cell population maintenance,BP,trinotate
+upregulated,cell population maintenance,BP,trinotate
+upregulated,cell projection,CC,trinotate
+regulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell projection,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell shape,BP,trinotate
+upregulated,cell surface,CC,trinotate
+upregulated,cell surface,CC,trinotate
+upregulated,cell surface,CC,trinotate
+upregulated,cell surface,CC,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell adhesion,BP,trinotate
+upregulated,cell-substrate adhesion,BP,trinotate
+upregulated,cell-substrate adhesion,BP,trinotate
+upregulated,cell-substrate adhesion,BP,trinotate
+upregulated,cell-substrate adhesion,CC,trinotate
+upregulated,cell-substrate adhesion,BP,trinotate
+downregulated,cellular biosynthesis,BP,trinotate
+regulated,cellular biosynthesis,BP,trinotate
+downregulated,cellular biosynthesis,BP,uniprot
+downregulated,cellular biosynthesis,BP,uniprot
+regulated,cellular biosynthesis,BP,uniprot
+downregulated,cellular biosynthesis,BP,trinotate
+upregulated,cellular biosynthesis,BP,trinotate
+upregulated,cellular biosynthesis,BP,trinotate
+upregulated,cellular biosynthesis,BP,uniprot
+downregulated,cellular ketone metabolism,BP,trinotate
+upregulated,cellular localization,BP,trinotate
+upregulated,cellular macromolecule biosynthesis,BP,trinotate
+upregulated,cellular macromolecule biosynthesis,BP,trinotate
+upregulated,cellular macromolecule biosynthesis,BP,uniprot
+upregulated,cellular metabolism,BP,trinotate
+upregulated,cellular metabolism,BP,uniprot
+upregulated,protein localization,BP,trinotate
+upregulated,protein metabolism,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+downregulated,cellular response to interferon-beta,BP,trinotate
+upregulated,cellular response to lipopolysaccharide,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,cellular response to nitrogen compound,BP,trinotate
+upregulated,cellular response to nitrogen compound,BP,trinotate
+upregulated,cellular response to organic substance,BP,trinotate
+upregulated,cellular response to organic substance,BP,trinotate
+upregulated,cellular response to organonitrogen compound,BP,trinotate
+upregulated,cellular response to organonitrogen compound,BP,trinotate
+upregulated,cellular response to oxygen-containing compound,BP,trinotate
+upregulated,cellular response to oxygen-containing compound,BP,trinotate
+upregulated,cellular response to peptide,BP,trinotate
+upregulated,cellular response to peptide,BP,trinotate
+upregulated,cellular response to peptide hormone stimulus,BP,trinotate
+upregulated,cellular response to peptidoglycan,BP,trinotate
+upregulated,cellular response to peptidoglycan,BP,trinotate
+upregulated,cellular response to vascular endothelial growth factor stimulus,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+upregulated,chemotaxis,BP,trinotate
+downregulated,chlorophyll metabolism,,KEGG
+upregulated,chondrocyte differentiation,BP,trinotate
+upregulated,chondrocyte differentiation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,cell proliferation,BP,trinotate
+upregulated,chromatin,CC,trinotate
+upregulated,chromatin,MF,trinotate
+upregulated,chromatin,MF,uniprot
+upregulated,chromatin,BP,trinotate
+upregulated,chromatin,BP,trinotate
+regulated,chromatin,BP,trinotate
+upregulated,chromatin,BP,trinotate
+upregulated,chromosome organization,BP,trinotate
+upregulated,chromosome organization,BP,trinotate
+upregulated,clathrin-coated pit,CC,trinotate
+upregulated,cleavage furrow,CC,trinotate
+upregulated,cleavage furrow,CC,trinotate
+upregulated,cluster of actin-based cell projections,CC,trinotate
+upregulated,cluster of actin-based cell projections,CC,trinotate
+downregulated,enzyme biosynthesis,BP,trinotate
+downregulated,enzyme biosynthesis,BP,trinotate
+downregulated,enzyme biosynthesis,BP,uniprot
+downregulated,enzyme biosynthesis,BP,trinotate
+downregulated,enzyme biosynthesis,BP,trinotate
+regulated,enzyme biosynthesis,BP,trinotate
+downregulated,enzyme biosynthesis,BP,uniprot
+downregulated,binding,MF,trinotate
+downregulated,binding,MF,trinotate
+regulated,binding,MF,trinotate
+downregulated,binding,MF,uniprot
+downregulated,binding,MF,uniprot
+upregulated,collagen fibril organization,BP,trinotate
+upregulated,collagen fibril organization,BP,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,uniprot
+upregulated,collagen trimer,CC,uniprot
+regulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+regulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+regulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,collagen trimer,CC,trinotate
+upregulated,contractile fiber,CC,trinotate
+upregulated,coreceptor activity,MF,trinotate
+upregulated,coreceptor activity,MF,trinotate
+downregulated,cytochrome complex assembly,BP,trinotate
+downregulated,cytochrome complex assembly,BP,uniprot
+downregulated,cytochrome-c oxidase activity,MF,trinotate
+upregulated,cytokine activity,MF,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+downregulated,cytolysis,BP,trinotate
+downregulated,cytoplasm,CC,trinotate
+regulated,cytoplasm,CC,trinotate
+downregulated,cytoplasm,CC,uniprot
+downregulated,cytoplasm,CC,uniprot
+upregulated,cytoplasm,CC,trinotate
+upregulated,cytoplasm,CC,trinotate
+downregulated,cytoplasm,BP,trinotate
+downregulated,cytoplasm,BP,trinotate
+upregulated,cytoplasm,CC,trinotate
+upregulated,cytoplasm,CC,trinotate
+upregulated,cytoskeleton organization,MF,trinotate
+upregulated,cytoskeleton organization,BP,trinotate
+upregulated,cytoskeleton organization,BP,trinotate
+downregulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+regulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+regulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+regulated,ribosome,CC,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,dehydroascorbic acid transport,MF,trinotate
+upregulated,dehydroascorbic acid transport,MF,trinotate
+upregulated,dehydroascorbic acid transport,BP,trinotate
+upregulated,dehydroascorbic acid transport,BP,trinotate
+upregulated,dendrite development,CC,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,CC,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+upregulated,dendrite development,BP,trinotate
+downregulated,deoxyribose phosphate biosynthesis,BP,trinotate
+downregulated,deoxyribose phosphate biosynthesis,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,detection of stimulus,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+downregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+downregulated,development,,KEGG
+downregulated,development,,KEGG
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+regulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,digestion,BP,trinotate
+upregulated,digestion,BP,trinotate
+upregulated,digestion,BP,trinotate
+upregulated,digestion,BP,trinotate
+downregulated,disulfide oxidoreductase activity,MF,uniprot
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,uniprot
+upregulated,DNA binding,MF,uniprot
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,uniprot
+upregulated,DNA binding,MF,uniprot
+upregulated,DNA binding,MF,trinotate
+upregulated,DNA binding,MF,trinotate
+downregulated,DNA metabolism,BP,trinotate
+downregulated,DNA metabolism,BP,trinotate
+downregulated,DNA metabolism,BP,trinotate
+downregulated,DNA metabolism,BP,trinotate
+downregulated,DNA repair,,KEGG
+downregulated,DNA replication,,KEGG
+upregulated,DNA replication,BP,trinotate
+upregulated,DNA replication,BP,trinotate
+upregulated,DNA replication,BP,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding,MF,trinotate
+upregulated,DNA-binding transcription factor activity,BP,trinotate
+upregulated,DNA-binding transcription factor activity,BP,trinotate
+downregulated,dodecenoyl-CoA delta-isomerase activity,MF,trinotate
+upregulated,dorsal/ventral formation,BP,trinotate
+upregulated,dorsal/ventral formation,BP,trinotate
+upregulated,ear development,BP,trinotate
+regulated,ECM-receptor interaction,,KEGG
+upregulated,ECM-receptor interaction,,KEGG
+upregulated,ECM-receptor interaction,,KEGG
+downregulated,electron transport,BP,trinotate
+downregulated,electron transport,BP,trinotate
+downregulated,electron transport,BP,trinotate
+downregulated,electron transport,BP,trinotate
+downregulated,electron transport chain,MF,trinotate
+downregulated,electron transport chain,MF,uniprot
+downregulated,electron transport chain,MF,uniprot
+downregulated,electron transport chain,BP,trinotate
+downregulated,electron transport chain,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryo development,BP,trinotate
+upregulated,embryonic development,BP,trinotate
+upregulated,embryonic development,BP,trinotate
+upregulated,Endocrine and metabolic diseases,,KEGG
+upregulated,endocytic vesicle,CC,trinotate
+upregulated,endocytic vesicle,CC,trinotate
+upregulated,endocytosis,BP,trinotate
+upregulated,endocytosis,BP,trinotate
+upregulated,endocytosis,BP,trinotate
+upregulated,endodermal cell differentiation,BP,trinotate
+upregulated,endodermal cell differentiation,BP,trinotate
+upregulated,endomembrane system,CC,trinotate
+upregulated,endomembrane system,BP,trinotate
+upregulated,endopeptidase activity,BP,trinotate
+upregulated,endopeptidase activity,BP,trinotate
+upregulated,endopeptidase inhibitor activity,MF,trinotate
+upregulated,endopeptidase inhibitor activity,MF,trinotate
+upregulated,endopeptidase inhibitor activity,MF,uniprot
+upregulated,endopeptidase regulator activity,MF,trinotate
+upregulated,endopeptidase regulator activity,MF,trinotate
+upregulated,endopeptidase regulator activity,MF,uniprot
+upregulated,endothelial ,BP,trinotate
+upregulated,endothelial ,BP,trinotate
+upregulated,endothelial cell chemotaxis,BP,trinotate
+upregulated,endothelial cell chemotaxis,BP,trinotate
+upregulated,endothelial cell chemotaxis to fibroblast growth factor,BP,trinotate
+upregulated,endothelial cell chemotaxis to fibroblast growth factor,BP,trinotate
+upregulated,endothelial cell migration,BP,trinotate
+upregulated,endothelial cell migration,BP,trinotate
+upregulated,endothelial cell proliferation,BP,trinotate
+upregulated,endothelial cell proliferation,BP,trinotate
+downregulated,envelope,CC,trinotate
+downregulated,envelope,CC,uniprot
+upregulated,Environmental Information Processing,,KEGG
+upregulated,Environmental Information Processing,,KEGG
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,uniprot
+downregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+regulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,uniprot
+regulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,,KEGG
+upregulated,enzyme activity,BP,trinotate
+upregulated,enzyme activity,BP,trinotate
+upregulated,enzyme activity,BP,trinotate
+upregulated,enzyme activity,BP,trinotate
+upregulated,enzyme activity,BP,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,trinotate
+upregulated,enzyme activity,MF,uniprot
+upregulated,enzyme activity,BP,trinotate
+downregulated,enzyme activity,MF,trinotate
+downregulated,enzyme activity,MF,trinotate
+downregulated,enzyme activity,MF,trinotate
+downregulated,enzyme activity,MF,trinotate
+upregulated,enzyme binding,MF,trinotate
+upregulated,enzyme binding,MF,uniprot
+upregulated,epiboly,BP,trinotate
+upregulated,epinephrine secretion,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell proliferation,BP,trinotate
+upregulated,epithelial cell proliferation,BP,trinotate
+upregulated,epithelial to mesenchymal transition,BP,trinotate
+upregulated,epithelial to mesenchymal transition,BP,trinotate
+upregulated,epithelium migration,BP,trinotate
+upregulated,epithelium migration,BP,trinotate
+upregulated,establishment of protein localization,BP,trinotate
+downregulated,exonucleolytic catabolism,BP,trinotate
+regulated,exonucleolytic trimming,BP,trinotate
+regulated,exonucleolytic trimming,BP,trinotate
+downregulated,exosome,,KEGG
+regulated,exosome,CC,trinotate
+upregulated,exosome,CC,trinotate
+upregulated,extent of cell growth,BP,trinotate
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,BP,trinotate
+upregulated,extracellular matrix,BP,trinotate
+upregulated,extracellular matrix,MF,trinotate
+upregulated,extracellular matrix,BP,trinotate
+upregulated,extracellular matrix,BP,trinotate
+upregulated,extracellular matrix,MF,trinotate
+upregulated,extracellular matrix,MF,trinotate
+upregulated,extracellular matrix,MF,uniprot
+upregulated,extracellular matrix,MF,trinotate
+upregulated,extracellular matrix,MF,trinotate
+upregulated,extracellular matrix,MF,trinotate
+regulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,uniprot
+upregulated,extracellular matrix,CC,uniprot
+upregulated,extracellular matrix,CC,trinotate
+upregulated,extracellular matrix,CC,trinotate
+regulated,extracellular organelle,CC,trinotate
+upregulated,extracellular organelle,CC,trinotate
+upregulated,extracellular organelle,CC,trinotate
+upregulated,extracellular structure organization,BP,trinotate
+upregulated,extracellular structure organization,BP,trinotate
+regulated,extracellular vesicle,CC,trinotate
+upregulated,extracellular vesicle,CC,trinotate
+upregulated,extracellular vesicle,CC,trinotate
+downregulated,fatty acid catabolism,BP,trinotate
+downregulated,fatty acid catabolism,,KEGG
+downregulated,fatty acid catabolism,,KEGG
+downregulated,fatty acid catabolism,,KEGG
+regulated,fatty acid catabolism,,KEGG
+downregulated,fatty acid catabolism,,KEGG
+downregulated,fatty acid catabolism,,KEGG
+downregulated,fatty acid catabolism,BP,trinotate
+downregulated,fatty acid catabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+upregulated,feeding,BP,trinotate
+upregulated,fibroblast migration,BP,trinotate
+upregulated,fibroblast migration,BP,trinotate
+upregulated,focal adhesion,CC,trinotate
+upregulated,focal adhesion,BP,trinotate
+downregulated,Folate biosynthesis,,KEGG
+downregulated,Folate biosynthesis,,KEGG
+regulated,formation of primary germ layer,BP,trinotate
+upregulated,formation of primary germ layer,BP,trinotate
+upregulated,formation of primary germ layer,BP,trinotate
+upregulated,G protein-coupled peptide receptor activity,MF,trinotate
+upregulated,G protein-coupled receptors ,,KEGG
+upregulated,gastrulation,BP,trinotate
+upregulated,gastrulation,BP,trinotate
+upregulated,gastrulation,BP,trinotate
+upregulated,gastrulation,BP,trinotate
+upregulated,gene expression,BP,trinotate
+downregulated,gene expression,BP,uniprot
+upregulated,gene expression,BP,trinotate
+upregulated,gene expression,BP,uniprot
+regulated,generation of neurons,BP,trinotate
+upregulated,generation of neurons,BP,trinotate
+upregulated,generation of neurons,BP,trinotate
+downregulated,Genetic Information Processing,,KEGG
+downregulated,Genetic Information Processing,,KEGG
+upregulated,germinal center formation,BP,trinotate
+upregulated,gliogenesis,BP,trinotate
+upregulated,gliogenesis,BP,trinotate
+upregulated,glucose binding,MF,trinotate
+upregulated,glucose binding,MF,trinotate
+upregulated,glucosylceramidase activity,BP,trinotate
+upregulated,glutamatergic synapse,CC,trinotate
+downregulated,Glycolysis,,KEGG
+regulated,Glycolysis ,,KEGG
+upregulated,glycoprotein transport,BP,trinotate
+upregulated,Golgi apparatus,CC,trinotate
+upregulated,Golgi membrane,CC,trinotate
+upregulated,Golgi stack,CC,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,BP,trinotate
+upregulated,growth,CC,trinotate
+upregulated,growth,CC,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,uniprot
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,CC,trinotate
+upregulated,growth factor,CC,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,uniprot
+upregulated,growth factor,MF,uniprot
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+regulated,growth factor,,KEGG
+upregulated,growth factor,,KEGG
+upregulated,growth factor,,KEGG
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,MF,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,trinotate
+upregulated,growth factor,BP,uniprot
+downregulated,GTP binding,MF,trinotate
+downregulated,GTP binding,MF,trinotate
+upregulated,GTPase activity,MF,trinotate
+upregulated,GTPase activity,BP,trinotate
+upregulated,GTPase activity,MF,trinotate
+upregulated,GTPase activity,MF,uniprot
+upregulated,GTPase activity,MF,trinotate
+upregulated,GTPase activity,BP,trinotate
+upregulated,GTPase binding,MF,trinotate
+upregulated,GTPase binding,MF,trinotate
+downregulated,guanyl nucleotide binding,MF,trinotate
+downregulated,guanyl nucleotide binding,MF,trinotate
+downregulated,guanyl ribonucleotide binding,MF,trinotate
+downregulated,guanyl ribonucleotide binding,MF,trinotate
+upregulated,guanyl-nucleotide exchange factor activity,MF,trinotate
+upregulated,guanyl-nucleotide exchange factor activity,MF,uniprot
+upregulated,hemopoiesis,BP,trinotate
+upregulated,heparan sulfate proteoglycan biosynthesis,BP,trinotate
+upregulated,heterochromatin,CC,trinotate
+upregulated,heterochromatin maintenance,BP,trinotate
+upregulated,heterocycle biosynthesis,BP,trinotate
+downregulated,heterocycle catabolism,BP,trinotate
+upregulated,hippo signaling,BP,trinotate
+upregulated,histone modification,BP,trinotate
+upregulated,histone modification,BP,trinotate
+upregulated,homeostatic process,BP,trinotate
+upregulated,hormone,BP,trinotate
+upregulated,hormone,BP,trinotate
+upregulated,hormone,BP,trinotate
+upregulated,hormone stimulus,BP,trinotate
+upregulated,hormone stimulus,BP,trinotate
+upregulated,Human Diseases,,KEGG
+upregulated,hydrolase activity,BP,trinotate
+upregulated,hydrolase activity,BP,trinotate
+downregulated,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",MF,trinotate
+downregulated,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",MF,trinotate
+downregulated,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",MF,uniprot
+downregulated,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides",MF,uniprot
+downregulated,immune response,BP,trinotate
+downregulated,immune response,BP,trinotate
+regulated,immune response,BP,trinotate
+downregulated,immune response,BP,trinotate
+downregulated,immune response,BP,trinotate
+downregulated,immune response,BP,uniprot
+upregulated,immune response,BP,trinotate
+upregulated,immune response,,KEGG
+upregulated,immune response,,KEGG
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+regulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,CC,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,CC,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune system process,BP,trinotate
+upregulated,inflammatory response,BP,trinotate
+downregulated,inner mitochondrial membrane protein complex,CC,trinotate
+downregulated,inner mitochondrial membrane protein complex,CC,trinotate
+regulated,inner mitochondrial membrane protein complex,CC,trinotate
+upregulated,integrin-mediated signaling pathway,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+regulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin production,BP,trinotate
+upregulated,interleukin-13 production,BP,trinotate
+upregulated,interleukin-13 production,BP,trinotate
+upregulated,interleukin-13 production,BP,trinotate
+upregulated,interleukin-13 production,BP,trinotate
+upregulated,interleukin-2 production,BP,trinotate
+upregulated,interleukin-4 production,BP,trinotate
+upregulated,interleukin-4 production,BP,trinotate
+upregulated,interleukin-4 production,BP,trinotate
+upregulated,interleukin-4 production,BP,trinotate
+upregulated,interleukin-5 production,BP,trinotate
+upregulated,interleukin-5 production,BP,trinotate
+upregulated,interleukin-5 production,BP,trinotate
+upregulated,interleukin-5 production,BP,trinotate
+upregulated,intracellular protein transport,BP,trinotate
+upregulated,intracellular signal transduction,BP,trinotate
+upregulated,ion binding,MF,trinotate
+upregulated,ion binding,MF,trinotate
+downregulated,ion channel activity,MF,trinotate
+upregulated,ion channel activity,MF,trinotate
+upregulated,ion transport,BP,trinotate
+upregulated,ion transport,BP,trinotate
+upregulated,ion transport,BP,trinotate
+downregulated,isomerase activity,MF,trinotate
+downregulated,isomerase activity,MF,trinotate
+upregulated,kinase activity,MF,trinotate
+upregulated,kinase activity,BP,trinotate
+upregulated,lamellipodium,CC,trinotate
+downregulated,large ribosomal subunit,CC,trinotate
+downregulated,large ribosomal subunit,CC,trinotate
+regulated,large ribosomal subunit,CC,trinotate
+upregulated,leukocyte activation,BP,trinotate
+upregulated,leukocyte activation,BP,trinotate
+upregulated,leukocyte cell-cell adhesion,BP,trinotate
+upregulated,leukocyte cell-cell adhesion,BP,trinotate
+upregulated,leukocyte differentiation,BP,trinotate
+upregulated,lipid localization,BP,trinotate
+upregulated,lipid transport,BP,trinotate
+upregulated,lipid transport,BP,trinotate
+upregulated,lipoprotein activity,CC,trinotate
+upregulated,lipoprotein activity,CC,trinotate
+upregulated,lipoprotein activity,MF,trinotate
+upregulated,lipoprotein activity,MF,trinotate
+upregulated,lipoprotein activity,BP,trinotate
+upregulated,lipoprotein activity,MF,trinotate
+upregulated,lipoprotein activity,MF,trinotate
+upregulated,lipoprotein particle,CC,trinotate
+upregulated,lipoprotein particle,CC,trinotate
+upregulated,lipoprotein particle receptor activity,MF,trinotate
+upregulated,localization,BP,trinotate
+upregulated,localization,BP,trinotate
+upregulated,localization,BP,trinotate
+upregulated,localization,BP,trinotate
+upregulated,localization,BP,trinotate
+upregulated,localization,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,lymphocyte activation,BP,trinotate
+upregulated,lymphocyte activation,BP,trinotate
+upregulated,lymphocyte activation,BP,trinotate
+upregulated,lymphocyte differentiation,BP,trinotate
+upregulated,lymphocyte differentiation,BP,trinotate
+downregulated,Lysine degradation,,KEGG
+upregulated,macromolecule biosynthesis,BP,trinotate
+downregulated,macromolecule biosynthesis,BP,uniprot
+downregulated,macromolecule biosynthesis,BP,uniprot
+downregulated,macromolecule biosynthesis,BP,trinotate
+upregulated,macromolecule biosynthesis,BP,trinotate
+downregulated,macromolecule biosynthesis,BP,uniprot
+upregulated,macromolecule biosynthesis,BP,trinotate
+upregulated,macromolecule biosynthesis,BP,trinotate
+upregulated,macromolecule biosynthesis,BP,uniprot
+upregulated,macromolecule localization,BP,trinotate
+upregulated,macromolecule metabolism,BP,trinotate
+upregulated,macromolecule metabolism,BP,trinotate
+upregulated,macromolecule metabolism,BP,uniprot
+upregulated,macromolecule modification,BP,trinotate
+upregulated,maintenance of cell number,BP,trinotate
+upregulated,maintenance of cell number,BP,trinotate
+upregulated,MAPK cascade,BP,trinotate
+downregulated,me,BP,uniprot
+downregulated,me,,KEGG
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,uniprot
+upregulated,membrane,CC,uniprot
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,uniprot
+upregulated,membrane,CC,uniprot
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,uniprot
+upregulated,membrane,CC,uniprot
+downregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+regulated,membrane,CC,trinotate
+downregulated,membrane,CC,uniprot
+upregulated,membrane,CC,trinotate
+downregulated,membrane potential,BP,trinotate
+upregulated,membrane protein ectodomain proteolysis,BP,trinotate
+downregulated,membrane-bounded organelle,CC,trinotate
+regulated,membrane-bounded organelle,CC,trinotate
+upregulated,mesenchymal cell apoptotic process,BP,trinotate
+upregulated,mesenchymal cell apoptotic process,BP,trinotate
+upregulated,mesenchymal cell proliferation,BP,trinotate
+upregulated,mesenchymal cell proliferation,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+upregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+upregulated,metabolism,MF,trinotate
+upregulated,metabolism,MF,trinotate
+regulated,metabolism,,KEGG
+upregulated,metabolism,,KEGG
+upregulated,metabolism,,KEGG
+upregulated,metabolism,,KEGG
+upregulated,metabolism,,KEGG
+upregulated,metabolism,,KEGG
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+upregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,MF,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+regulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,uniprot
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,,KEGG
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,,KEGG
+regulated,metabolism,,KEGG
+upregulated,metabolism,,KEGG
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,uniprot
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,uniprot
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,uniprot
+downregulated,metabolism,,KEGG
+downregulated,metabolism,,KEGG
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+upregulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,,KEGG
+downregulated,metal cluster binding,MF,trinotate
+downregulated,metal cluster binding,MF,trinotate
+downregulated,metal cluster binding,MF,uniprot
+upregulated,metal ion binding,MF,trinotate
+upregulated,metal ion transport,BP,trinotate
+upregulated,metal ion transport,BP,trinotate
+downregulated,methylation,BP,uniprot
+downregulated,methyltransferase activity,MF,trinotate
+downregulated,methyltransferase activity,MF,uniprot
+upregulated,MHC class I biosynthesis,BP,trinotate
+upregulated,MHC class I biosynthesis,BP,trinotate
+downregulated,microbody,CC,trinotate
+upregulated,microtubule end,CC,trinotate
+upregulated,microvillus assembly,BP,trinotate
+upregulated,microvillus assembly,BP,trinotate
+upregulated,microvillus assembly,BP,trinotate
+upregulated,microvillus organization,BP,trinotate
+upregulated,microvillus organization,BP,trinotate
+downregulated,Mismatch repair,,KEGG
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+regulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,uniprot
+downregulated,mitochondrion development,CC,uniprot
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+regulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,uniprot
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,uniprot
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+regulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+regulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,BP,uniprot
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+regulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,BP,trinotate
+regulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,BP,trinotate
+regulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,trinotate
+regulated,mitochondrion development,CC,trinotate
+downregulated,mitochondrion development,CC,uniprot
+downregulated,mitochondrion development,CC,uniprot
+downregulated,mitochondrion development,BP,trinotate
+downregulated,mitochondrion development,BP,uniprot
+downregulated,mitocondrian,BP,trinotate
+downregulated,mitocondrion,BP,trinotate
+upregulated,mitotic G2 DNA damage checkpoint,BP,trinotate
+upregulated,mitotic G2/M transition checkpoint,BP,trinotate
+upregulated,modified amino acid transmembrane transporter activity,MF,trinotate
+upregulated,modified amino acid transmembrane transporter activity,MF,trinotate
+upregulated,molecular adaptor activity,MF,trinotate
+upregulated,molecular adaptor activity,MF,trinotate
+upregulated,molecular function,BP,trinotate
+upregulated,molecular transducer activity,MF,trinotate
+upregulated,molecular transducer activity,MF,trinotate
+upregulated,molting cycle,BP,trinotate
+upregulated,molting cycle,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis,BP,trinotate
+upregulated,morphogenesis of an epithelium,BP,trinotate
+upregulated,morphogenesis of an epithelium,BP,trinotate
+upregulated,motor neuron axon guidance,BP,trinotate
+upregulated,motor neuron axon guidance,BP,trinotate
+upregulated,mRNA transcription,BP,trinotate
+regulated,multicellular organismal development,BP,trinotate
+upregulated,multicellular organismal development,BP,trinotate
+upregulated,multicellular organismal development,BP,trinotate
+upregulated,multicellular organismal process,BP,trinotate
+upregulated,multicellular organismal process,BP,trinotate
+upregulated,myelination,BP,trinotate
+upregulated,myeloid cell apoptotic process,BP,trinotate
+upregulated,myofibril,CC,trinotate
+downregulated,NAD binding,MF,trinotate
+downregulated,NAD binding,MF,trinotate
+downregulated,NADH dehydrogenase,MF,trinotate
+downregulated,NADH dehydrogenase,MF,trinotate
+downregulated,NADH dehydrogenase,MF,trinotate
+downregulated,NADH dehydrogenase,CC,trinotate
+downregulated,NADH dehydrogenase,CC,trinotate
+regulated,NADH dehydrogenase,CC,trinotate
+downregulated,NADH dehydrogenase,BP,trinotate
+downregulated,NADH dehydrogenase,BP,trinotate
+regulated,NADH dehydrogenase,BP,trinotate
+downregulated,NADP activity,MF,trinotate
+downregulated,NADP activity,MF,trinotate
+downregulated,NADP activity,MF,trinotate
+downregulated,NADP activity,MF,trinotate
+downregulated,NADP activity,MF,trinotate
+downregulated,NADP activity,MF,trinotate
+downregulated,NADP binding,MF,trinotate
+downregulated,NADP binding,MF,trinotate
+downregulated,NADPH binding,MF,trinotate
+upregulated,negative chemotaxis,BP,trinotate
+upregulated,nervous system development,BP,trinotate
+upregulated,nervous system development,BP,trinotate
+upregulated,nervous system process,BP,trinotate
+upregulated,nervous system process,BP,trinotate
+upregulated,neural tube closure,BP,trinotate
+upregulated,Neuroactive ligand-receptor interaction,,KEGG
+regulated,neurogenesis,BP,trinotate
+upregulated,neurogenesis,BP,trinotate
+upregulated,neurogenesis,BP,trinotate
+upregulated,neurogenesis,BP,trinotate
+upregulated,neurogenesis,BP,trinotate
+regulated,neuron differentiation,BP,trinotate
+upregulated,neuron differentiation,BP,trinotate
+upregulated,neuron differentiation,BP,trinotate
+upregulated,neuron differentiation,BP,trinotate
+upregulated,neuron differentiation,BP,trinotate
+regulated,neuron differentiation,BP,trinotate
+upregulated,neuron differentiation,BP,trinotate
+upregulated,neuron differentiation,BP,trinotate
+upregulated,neuron migration,BP,trinotate
+upregulated,neuron migration,BP,trinotate
+upregulated,neuron migration,BP,trinotate
+upregulated,neuron projection,CC,trinotate
+upregulated,neuron projection,CC,trinotate
+upregulated,neuron projection extension,BP,trinotate
+upregulated,neuron projection extension ,BP,trinotate
+upregulated,neuron projection guidance,BP,trinotate
+upregulated,neuron projection guidance,BP,trinotate
+upregulated,neuron to neuron synapse,CC,trinotate
+upregulated,neurotransmitter receptor localization to postsynaptic specialization membrane,BP,trinotate
+regulated,nitrogen compound metabolism,BP,trinotate
+upregulated,nitrogen compound metabolism,BP,trinotate
+downregulated,nitrogen compound metabolism,BP,uniprot
+downregulated,nitrogen compound metabolism,BP,uniprot
+regulated,nitrogen compound metabolism,BP,uniprot
+downregulated,nitrogen compound metabolism,BP,trinotate
+downregulated,nitrogen compound metabolism,BP,trinotate
+downregulated,nitrogen compound metabolism,BP,uniprot
+downregulated,Non-homologous end-joining,,KEGG
+upregulated,N-terminal peptidyl-lysine acetylation,BP,trinotate
+upregulated,nuclear chromatin,CC,trinotate
+upregulated,nuclear chromatin,CC,trinotate
+upregulated,nucleobase-containing compound biosynthesis,BP,trinotate
+upregulated,nucleobase-containing compound biosynthesis,BP,trinotate
+downregulated,nucleobase-containing compound biosynthesis,BP,trinotate
+downregulated,nucleobase-containing compound biosynthesis,BP,trinotate
+downregulated,nucleobase-containing compound biosynthesis,BP,trinotate
+downregulated,nucleobase-containing compound biosynthesis,BP,uniprot
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,trinotate
+regulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,uniprot
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,trinotate
+regulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,uniprot
+downregulated,nucleoside biosynthesis,BP,uniprot
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,uniprot
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,uniprot
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,trinotate
+downregulated,nucleoside biosynthesis,BP,uniprot
+downregulated,nucleoside salvage,BP,trinotate
+upregulated,nucleoside-triphosphatase regulator activity,MF,trinotate
+downregulated,nucleotide biosynthesis,BP,uniprot
+downregulated,Nucleotide excision repair,,KEGG
+upregulated,odontogenesis,BP,trinotate
+downregulated,oligosaccharyltransferase complex,CC,trinotate
+downregulated,oligosaccharyltransferase complex,CC,trinotate
+downregulated,One carbon pool by folate,,KEGG
+downregulated,One carbon pool by folate,,KEGG
+upregulated,organ growth,BP,trinotate
+downregulated,organellar large ribosomal subunit,CC,trinotate
+downregulated,organellar ribosome,CC,trinotate
+downregulated,organellar small ribosomal subunit,CC,trinotate
+downregulated,organelle envelope,CC,trinotate
+downregulated,organelle envelope,CC,uniprot
+downregulated,organelle envelope lumen,CC,trinotate
+upregulated,organelle organization,BP,trinotate
+upregulated,organelle organization,BP,trinotate
+upregulated,ossification,BP,trinotate
+upregulated,ossification,BP,trinotate
+upregulated,osteoblast differentiation,BP,trinotate
+upregulated,osteoblast differentiation,BP,trinotate
+downregulated,oxidation,BP,trinotate
+downregulated,oxidation-reduction,BP,trinotate
+downregulated,oxidation-reduction,BP,trinotate
+regulated,oxidation-reduction,BP,trinotate
+downregulated,oxidation-reduction,BP,uniprot
+downregulated,oxidative phosphorylation,,KEGG
+downregulated,oxidative phosphorylation,,KEGG
+regulated,oxidative phosphorylation,,KEGG
+downregulated,oxidative phosphorylation,BP,trinotate
+downregulated,oxidative phosphorylation,BP,trinotate
+downregulated,oxidoreducatase activity,MF,trinotate
+downregulated,oxidoreducatase activity,MF,trinotate
+downregulated,oxidoreducatase activity,MF,trinotate
+downregulated,oxidoreducatase activity,MF,trinotate
+downregulated,oxidoreducatase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+regulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,uniprot
+regulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+regulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+regulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,CC,trinotate
+downregulated,oxidoreductase activity,CC,trinotate
+regulated,oxidoreductase activity,CC,trinotate
+downregulated,oxidoreductase activity,CC,uniprot
+upregulated,pathway-restricted SMAD protein phosphorylation,BP,trinotate
+upregulated,Pattern recognition receptors ,,KEGG
+upregulated,pattern specification process,BP,trinotate
+upregulated,pattern specification process,BP,trinotate
+downregulated,Pentose phosphate pathway,,KEGG
+upregulated,peptidase activity,BP,trinotate
+upregulated,peptidase activity,BP,trinotate
+upregulated,peptide receptor activity,MF,trinotate
+upregulated,peptide secretion,BP,trinotate
+upregulated,peptide transport,BP,trinotate
+upregulated,peptidyl-lysine acetylation,BP,trinotate
+upregulated,peptidyl-lysine acetylation,BP,trinotate
+upregulated,peptidyl-tyrosine autophosphorylation,BP,trinotate
+downregulated,Peroxisome,,KEGG
+downregulated,peroxisome,CC,trinotate
+downregulated,"phenanthrene-9,10-epoxide hydrolase activity",MF,trinotate
+downregulated,"phenanthrene-9,10-epoxide hydrolase activity",MF,trinotate
+downregulated,phenanthrene-epoxide hydrolase activity,MF,trinotate
+downregulated,phenanthrene-epoxide hydrolase activity,MF,trinotate
+downregulated,phosphatase activity,MF,trinotate
+downregulated,phosphatase activity,MF,trinotate
+upregulated,phosphate metabolism,BP,trinotate
+upregulated,phosphorus metabolism,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphotransferase activity,MF,trinotate
+upregulated,phosphotransferase activity,MF,uniprot
+upregulated,plasma lipoprotein particle,CC,trinotate
+upregulated,plasma lipoprotein particle,CC,trinotate
+upregulated,plasma lipoprotein particle clearance,BP,trinotate
+upregulated,plasma lipoprotein particle clearance,BP,trinotate
+upregulated,plasma lipoprotein particle levels,BP,trinotate
+upregulated,plasma lipoprotein particle levels,BP,trinotate
+upregulated,plasma lipoprotein particle remodeling,BP,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+regulated,plasma membrane,BP,trinotate
+upregulated,plasma membrane,BP,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,plasma membrane,CC,trinotate
+upregulated,postsynapse,CC,trinotate
+upregulated,postsynaptic actin cytoskeleton,CC,trinotate
+upregulated,postsynaptic cytoskeleton,CC,trinotate
+upregulated,postsynaptic density,CC,trinotate
+upregulated,"postsynaptic density, intracellular component",CC,trinotate
+upregulated,postsynaptic specialization,CC,trinotate
+downregulated,Prenyltransferases ,,KEGG
+upregulated,primary metabolism,BP,trinotate
+upregulated,primary metabolism,BP,uniprot
+upregulated,pri-miRNA transcription by RNA polymerase II,BP,trinotate
+upregulated,production of molecular mediator of immune response,BP,trinotate
+upregulated,programmed cell death,BP,trinotate
+upregulated,protein acetylation,BP,trinotate
+upregulated,protein acetylation,BP,trinotate
+upregulated,protein autophosphorylation,BP,trinotate
+upregulated,protein binding,MF,trinotate
+upregulated,protein binding,MF,trinotate
+upregulated,protein binding,MF,trinotate
+upregulated,protein binding,MF,trinotate
+downregulated,protein carboxyl O-methyltransferase activity,MF,trinotate
+upregulated,protein exit from endoplasmic reticulum,BP,trinotate
+upregulated,protein heterooligomerization,BP,trinotate
+regulated,protein heterotrimerization,BP,trinotate
+upregulated,protein heterotrimerization,BP,trinotate
+upregulated,protein heterotrimerization,BP,trinotate
+upregulated,protein kinase activity,MF,trinotate
+upregulated,protein kinase activity,MF,uniprot
+upregulated,Protein kinases ,,KEGG
+upregulated,protein localization,BP,trinotate
+upregulated,protein localization,BP,trinotate
+upregulated,protein localization,BP,trinotate
+upregulated,protein localization,BP,trinotate
+upregulated,protein localization,BP,trinotate
+upregulated,protein localization,BP,trinotate
+downregulated,protein metabolism,BP,uniprot
+downregulated,protein metabolism,BP,uniprot
+upregulated,protein metabolism,BP,trinotate
+upregulated,protein metabolism,BP,trinotate
+upregulated,protein metabolism,BP,trinotate
+downregulated,protein metabolism,BP,uniprot
+downregulated,protein metabolism,BP,uniprot
+upregulated,protein metabolism,BP,trinotate
+upregulated,protein modification,BP,trinotate
+upregulated,protein modification,BP,trinotate
+upregulated,protein modification,BP,trinotate
+upregulated,protein modification ,BP,trinotate
+upregulated,protein modification process,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+downregulated,protein targeting to mitochondrion,BP,trinotate
+upregulated,protein transport,BP,trinotate
+upregulated,protein trimerization,BP,trinotate
+upregulated,protein trimerization,BP,trinotate
+downregulated,protein-containing complex,CC,uniprot
+upregulated,protein-glucosylgalactosylhydroxylysine glucosidase activity,MF,trinotate
+upregulated,protein-glucosylgalactosylhydroxylysine glucosidase activity,MF,trinotate
+upregulated,protein-lipid complex,CC,trinotate
+upregulated,protein-lipid complex remodeling,BP,trinotate
+upregulated,protein-macromolecule adaptor activity,MF,trinotate
+upregulated,protein-macromolecule adaptor activity,MF,trinotate
+downregulated,proton-transporting ATP synthase complex,CC,trinotate
+downregulated,proton-transporting ATP synthase complex,CC,uniprot
+downregulated,"proton-transporting ATP synthase complex, coupling factor F(o)",CC,trinotate
+downregulated,pteridine-containing compound biosynthesis,BP,trinotate
+downregulated,pteridine-containing compound biosynthesis,BP,trinotate
+downregulated,pteridine-containing compound metabolism,BP,trinotate
+downregulated,pteridine-containing compound metabolism,BP,trinotate
+upregulated,Ras guanyl-nucleotide exchange factor activity,MF,trinotate
+upregulated,Ras protein signal transduction,BP,trinotate
+upregulated,receptor complex,CC,trinotate
+upregulated,receptor complex,CC,trinotate
+upregulated,receptor ligand activity,MF,uniprot
+upregulated,receptor ligand activity,MF,uniprot
+upregulated,receptor regulator activity,MF,uniprot
+upregulated,receptor regulator activity,MF,uniprot
+upregulated,receptor-mediated endocytosis,BP,trinotate
+upregulated,receptor-mediated endocytosis,BP,trinotate
+upregulated,reelin receptor activity,MF,trinotate
+upregulated,reelin receptor activity,MF,trinotate
+upregulated,regeneration,BP,trinotate
+upregulated,regeneration,BP,trinotate
+upregulated,regionalization,BP,trinotate
+upregulated,regionalization,BP,trinotate
+upregulated,regulatory region nucleic acid binding,MF,trinotate
+upregulated,regulatory region nucleic acid binding,MF,trinotate
+downregulated,repair,,KEGG
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,uniprot
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+regulated,respiration,CC,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,uniprot
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+regulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+regulated,respiration,CC,trinotate
+downregulated,respiration,BP,uniprot
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+upregulated,respiration,BP,trinotate
+upregulated,respiration,BP,trinotate
+upregulated,respiration,BP,trinotate
+upregulated,respiration,BP,trinotate
+upregulated,response to acidic pH,BP,trinotate
+upregulated,response to bacterium,BP,trinotate
+upregulated,response to bacterium,BP,trinotate
+upregulated,response to bacterium,BP,trinotate
+upregulated,response to bacterium,BP,trinotate
+upregulated,response to BMP,BP,trinotate
+upregulated,response to BMP,BP,trinotate
+upregulated,response to cytokine,BP,trinotate
+upregulated,response to cytokine,BP,trinotate
+downregulated,response to exogenous dsRNA,BP,trinotate
+upregulated,response to external biotic stimulus,BP,trinotate
+upregulated,response to external biotic stimulus,BP,trinotate
+upregulated,response to external stimulus,BP,trinotate
+upregulated,response to external stimulus,BP,trinotate
+downregulated,response to interferon-beta,BP,trinotate
+upregulated,response to interferon-gamma,BP,trinotate
+upregulated,response to lipid,BP,trinotate
+upregulated,response to lipid,BP,trinotate
+upregulated,response to lipopolysaccharide,BP,trinotate
+upregulated,response to lipopolysaccharide,BP,trinotate
+upregulated,response to nitrogen compound,BP,trinotate
+upregulated,response to nitrogen compound,BP,trinotate
+upregulated,response to norepinephrine,BP,trinotate
+upregulated,response to norepinephrine,BP,trinotate
+upregulated,response to organic substance,BP,trinotate
+upregulated,response to organic substance,BP,trinotate
+upregulated,response to organonitrogen compound,BP,trinotate
+upregulated,response to organonitrogen compound,BP,trinotate
+upregulated,response to other organism,BP,trinotate
+upregulated,response to other organism,BP,trinotate
+upregulated,response to oxygen-containing compound,BP,trinotate
+upregulated,response to oxygen-containing compound,BP,trinotate
+upregulated,response to peptide,BP,trinotate
+upregulated,response to peptide,BP,trinotate
+upregulated,response to peptide hormone,BP,trinotate
+upregulated,response to peptidoglycan,BP,trinotate
+upregulated,response to peptidoglycan,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,uniprot
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,uniprot
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,uniprot
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,uniprot
+upregulated,response to thyroid hormone,BP,trinotate
+upregulated,response to thyroid hormone,BP,trinotate
+upregulated,response to wounding,BP,trinotate
+regulated,Rho guanyl-nucleotide exchange factor activity,MF,trinotate
+upregulated,Rho guanyl-nucleotide exchange factor activity,MF,trinotate
+downregulated,ribonucleoprotein complex,CC,trinotate
+downregulated,ribonucleoprotein complex,CC,uniprot
+downregulated,ribonucleoprotein complex,CC,uniprot
+downregulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,trinotate
+regulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,uniprot
+downregulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,trinotate
+regulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,uniprot
+downregulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,uniprot
+downregulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,uniprot
+downregulated,ribonucleoside metabolism,BP,uniprot
+downregulated,ribonucleoside metabolism,BP,trinotate
+downregulated,ribonucleoside metabolism,BP,uniprot
+upregulated,ribosome,BP,trinotate
+downregulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+regulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,uniprot
+downregulated,ribosome,CC,uniprot
+downregulated,ribosome,,KEGG
+downregulated,ribosome,,KEGG
+regulated,ribosome,,KEGG
+downregulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+regulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,uniprot
+downregulated,ribosome,CC,uniprot
+regulated,ribosome,CC,uniprot
+downregulated,ribosome,,KEGG
+downregulated,ribosome,,KEGG
+regulated,ribosome,,KEGG
+downregulated,ribosome,BP,trinotate
+downregulated,ribosome,CC,trinotate
+downregulated,ribosome,CC,trinotate
+regulated,ribosome,CC,trinotate
+downregulated,RNA 3'-end processing,BP,trinotate
+upregulated,RNA biosynthesis,BP,trinotate
+upregulated,RNA biosynthesis,BP,trinotate
+upregulated,RNA biosynthesis,BP,trinotate
+upregulated,RNA biosynthesis,BP,trinotate
+upregulated,RNA biosynthesis,BP,uniprot
+upregulated,RNA biosynthesis,BP,trinotate
+upregulated,RNA biosynthesis,BP,trinotate
+downregulated,RNA degradation,,KEGG
+upregulated,RNA metabolism,BP,trinotate
+downregulated,RNA metabolism,BP,trinotate
+upregulated,RNA metabolism,BP,trinotate
+upregulated,RNA metabolism,BP,trinotate
+upregulated,RNA metabolism,BP,trinotate
+upregulated,RNA metabolism,BP,trinotate
+upregulated,RNA metabolism,BP,uniprot
+upregulated,RNA metabolism,BP,trinotate
+downregulated,RNA modification,BP,trinotate
+upregulated,RNA polymerase II cis-regulatory region sequence-specific DNA binding,MF,trinotate
+upregulated,RNA polymerase II cis-regulatory region sequence-specific DNA binding,MF,trinotate
+upregulated,RNA polymerase II transcription regulatory region sequence-specific DNA binding,MF,trinotate
+upregulated,RNA polymerase II transcription regulatory region sequence-specific DNA binding,MF,trinotate
+downregulated,RNA processing,BP,trinotate
+downregulated,RNA processing,BP,trinotate
+regulated,rRNA 3'-end processing,BP,trinotate
+downregulated,rRNA binding,MF,trinotate
+downregulated,rRNA binding,MF,trinotate
+regulated,rRNA binding,MF,trinotate
+downregulated,rRNA binding,MF,uniprot
+downregulated,rRNA binding,MF,uniprot
+upregulated,rRNA-containing ribonucleoprotein complex export from nucleus,BP,trinotate
+downregulated,S-adenosylmethionine-dependent methyltransferase activity,MF,trinotate
+upregulated,sarcolemma,CC,trinotate
+downregulated,Selenocompound metabolism,,KEGG
+upregulated,sensory perception,BP,trinotate
+upregulated,sensory perception,BP,trinotate
+regulated,sensory perception,BP,trinotate
+upregulated,sensory perception,BP,trinotate
+upregulated,sensory perception,BP,trinotate
+regulated,sensory perception,BP,trinotate
+upregulated,sensory perception,BP,trinotate
+upregulated,sensory perception,BP,trinotate
+upregulated,serine-type endopeptidase inhibitor activity,MF,trinotate
+upregulated,sex differentiation,BP,trinotate
+upregulated,sex differentiation,BP,trinotate
+upregulated,sex differentiation,BP,trinotate
+upregulated,sex differentiation,BP,trinotate
+upregulated,signal transduction,BP,trinotate
+upregulated,signal transduction,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,uniprot
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,uniprot
+upregulated,signaling,BP,uniprot
+downregulated,signaling,,KEGG
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,,KEGG
+upregulated,signaling,,KEGG
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,uniprot
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,uniprot
+upregulated,signaling,BP,trinotate
+upregulated,signaling,,KEGG
+upregulated,signaling,,KEGG
+regulated,signaling,BP,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,,KEGG
+upregulated,signaling,MF,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,small GTPase mediated signal transduction,BP,trinotate
+downregulated,small molecule biosynthesis,BP,trinotate
+downregulated,small molecule biosynthesis,BP,trinotate
+regulated,small molecule biosynthesis,BP,trinotate
+downregulated,small molecule biosynthesis,BP,uniprot
+downregulated,small molecule biosynthesis,BP,uniprot
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,uniprot
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,trinotate
+regulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,uniprot
+downregulated,small molecule metabolism,BP,uniprot
+upregulated,smooth muscle cell differentiation,BP,trinotate
+upregulated,solute:cation symporter activity,MF,trinotate
+upregulated,solute:cation symporter activity,MF,trinotate
+upregulated,solute:sodium symporter activity,MF,trinotate
+upregulated,solute:sodium symporter activity,MF,trinotate
+upregulated,somatodendritic compartment,CC,trinotate
+upregulated,sorocarp development,BP,trinotate
+upregulated,sorocarp development,BP,trinotate
+upregulated,sorocarp development,BP,trinotate
+upregulated,sorocarp development,BP,trinotate
+upregulated,sorocarp differentiation,BP,trinotate
+upregulated,sorocarp spore cell differentiation,BP,trinotate
+upregulated,Spemann organizer formation,BP,trinotate
+upregulated,Spemann organizer formation,BP,trinotate
+downregulated,Spliceosome,,KEGG
+downregulated,stabilization of membrane potential,BP,trinotate
+upregulated,stem cell proliferation,BP,trinotate
+upregulated,sterol transport,BP,trinotate
+upregulated,stress fiber,CC,trinotate
+upregulated,stress fiber,CC,trinotate
+upregulated,stress fiber assembly,BP,trinotate
+downregulated,succinate-CoA ligase,MF,uniprot
+downregulated,succinate-CoA ligase,MF,trinotate
+downregulated,succinate-CoA ligase,MF,uniprot
+downregulated,succinate-CoA ligase,CC,trinotate
+downregulated,sugar metabolism,,KEGG
+upregulated,sulfotransferase activity,MF,trinotate
+upregulated,sulfotransferase activity,MF,trinotate
+upregulated,sulfur compound binding,MF,trinotate
+upregulated,sulfur compound binding,MF,trinotate
+downregulated,sulfur compound metabolism,BP,trinotate
+upregulated,supramolecular complex,CC,trinotate
+upregulated,supramolecular fiber,CC,trinotate
+upregulated,supramolecular fiber organization,BP,trinotate
+upregulated,supramolecular fiber organization,BP,trinotate
+upregulated,supramolecular fiber organization,BP,trinotate
+upregulated,supramolecular polymer,CC,trinotate
+upregulated,symporter activity,MF,trinotate
+upregulated,symporter activity,MF,trinotate
+upregulated,synapse,CC,trinotate
+upregulated,synapse,CC,trinotate
+upregulated,synapse,BP,trinotate
+upregulated,synapse,BP,trinotate
+upregulated,synapse,BP,trinotate
+upregulated,synapse,BP,trinotate
+upregulated,synapse,BP,trinotate
+upregulated,synapse assembly,BP,trinotate
+upregulated,synapse assembly,BP,trinotate
+upregulated,synapse assembly,BP,trinotate
+upregulated,synapse organization,BP,trinotate
+upregulated,synapse organization,BP,trinotate
+upregulated,synapse structure or activity,BP,trinotate
+upregulated,synapse structure or activity,BP,trinotate
+downregulated,Synthesis and degradation of ketone bodies,,KEGG
+upregulated,T cell activation,BP,trinotate
+upregulated,T cell activation,BP,trinotate
+upregulated,T cell activation,BP,trinotate
+upregulated,T cell cytokine production,BP,trinotate
+upregulated,T cell cytokine production,BP,trinotate
+upregulated,T cell cytokine production,BP,trinotate
+upregulated,T cell cytokine production,BP,trinotate
+upregulated,T cell cytokine production,BP,trinotate
+upregulated,T cell cytokine production,BP,trinotate
+upregulated,T cell differentiation,BP,trinotate
+upregulated,T cell differentiation,BP,trinotate
+upregulated,T cell differentiation,BP,trinotate
+upregulated,T cell mediated immunity,BP,trinotate
+upregulated,T cell mediated immunity,BP,trinotate
+upregulated,taxis,BP,trinotate
+upregulated,taxis,BP,trinotate
+downregulated,TCA cycle,,KEGG
+downregulated,TCA cycle,,KEGG
+downregulated,tetrahydrobiopterin metabolism,BP,trinotate
+downregulated,tetrahydrobiopterin metabolism,BP,trinotate
+downregulated,tetrahydrofolate metabolism,BP,trinotate
+downregulated,tetrapyrrole biosynthesis,BP,trinotate
+upregulated,T-helper 2 cell cytokine production,BP,trinotate
+upregulated,T-helper 2 cell cytokine production,BP,trinotate
+upregulated,T-helper 2 cell differentiation,BP,trinotate
+upregulated,T-helper 2 cell differentiation,BP,trinotate
+upregulated,T-helper cell differentiation,BP,trinotate
+upregulated,T-helper cell differentiation,BP,trinotate
+downregulated,thioester metabolism,BP,trinotate
+regulated,tissue development,BP,trinotate
+upregulated,tissue development,BP,trinotate
+upregulated,tissue development,BP,trinotate
+upregulated,tissue development,CC,trinotate
+upregulated,tissue development,CC,trinotate
+upregulated,tissue migration,BP,trinotate
+upregulated,tissue migration,BP,trinotate
+upregulated,tissue morphogenesis,BP,trinotate
+upregulated,tissue morphogenesis,BP,trinotate
+downregulated,transaminase activity,MF,trinotate
+downregulated,transaminase activity,MF,uniprot
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,uniprot
+downregulated,transcription,,KEGG
+regulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,MF,trinotate
+upregulated,transcription,MF,trinotate
+upregulated,transcription,BP,trinotate
+upregulated,transcription,BP,trinotate
+regulated,transcription by RNA polymerase II,BP,trinotate
+upregulated,transcription by RNA polymerase II,BP,trinotate
+upregulated,transcription by RNA polymerase II,BP,trinotate
+upregulated,transcription factor,MF,trinotate
+upregulated,transcription factor,MF,trinotate
+upregulated,transcription factor,BP,trinotate
+upregulated,transcription factor,BP,trinotate
+upregulated,transcription factor,BP,trinotate
+upregulated,transcription factor ,BP,trinotate
+upregulated,transcription factor ,BP,trinotate
+upregulated,transcription factors ,MF,trinotate
+upregulated,transcription factors ,,KEGG
+upregulated,transcription factors ,,KEGG
+upregulated,transcription involved in cell fate commitment,BP,trinotate
+upregulated,"transcription, DNA-templated",BP,trinotate
+upregulated,"transcription, DNA-templated",BP,trinotate
+upregulated,"transcription, DNA-templated",BP,uniprot
+downregulated,transferase,MF,uniprot
+downregulated,transferase,MF,trinotate
+downregulated,transferase,MF,trinotate
+downregulated,transferase,MF,trinotate
+downregulated,transferase,MF,uniprot
+downregulated,transferase,MF,trinotate
+downregulated,transferase,MF,uniprot
+downregulated,translation,,KEGG
+downregulated,translation,,KEGG
+downregulated,translation,,KEGG
+downregulated,translation,BP,trinotate
+downregulated,translation,BP,trinotate
+downregulated,translation,BP,uniprot
+downregulated,translation,BP,uniprot
+regulated,translation,BP,uniprot
+downregulated,translation,MF,trinotate
+downregulated,translation,MF,uniprot
+downregulated,translation,BP,trinotate
+downregulated,translation,BP,trinotate
+downregulated,translation,BP,trinotate
+downregulated,translation,BP,trinotate
+upregulated,transmembrane protein,MF,trinotate
+upregulated,transmembrane protein,MF,trinotate
+upregulated,transmembrane protein,MF,uniprot
+upregulated,transmembrane protein,MF,trinotate
+upregulated,transmembrane receptor protein serine/threonine kinase signaling pathway,BP,trinotate
+upregulated,transmembrane receptor protein serine/threonine kinase signaling pathway,BP,trinotate
+upregulated,transmembrane signaling,BP,trinotate
+upregulated,transmembrane signaling,BP,trinotate
+upregulated,transmembrane signaling,BP,trinotate
+upregulated,transmembrane signaling,BP,trinotate
+upregulated,transmembrane signaling,BP,uniprot
+regulated,transmembrane signaling,BP,trinotate
+upregulated,transmembrane signaling,BP,trinotate
+upregulated,transmembrane signaling,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+regulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+downregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,BP,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transporter,MF,trinotate
+upregulated,transmembrane transporter,MF,trinotate
+upregulated,transmembrane transporter,MF,trinotate
+upregulated,transport,BP,trinotate
+upregulated,transport,BP,trinotate
+upregulated,transport,BP,trinotate
+downregulated,tricarboxylic acid cycle,BP,trinotate
+downregulated,tricarboxylic acid cycle,BP,uniprot
+downregulated,tricarboxylic acid cycle,CC,trinotate
+downregulated,tricarboxylic acid cycle,CC,trinotate
+downregulated,tricarboxylic acid cycle,BP,trinotate
+downregulated,tricarboxylic acid cycle,BP,uniprot
+upregulated,triglyceride-rich plasma lipoprotein particle,CC,trinotate
+upregulated,triglyceride-rich plasma lipoprotein particle,CC,trinotate
+downregulated,tryptophan metabolism,BP,trinotate
+downregulated,tryptophan metabolism,BP,trinotate
+downregulated,tryptophan metabolism,BP,trinotate
+downregulated,tryptophan metabolism,,KEGG
+downregulated,tryptophan metabolism,,KEGG
+upregulated,T-tubule organization,BP,trinotate
+upregulated,tube formation,BP,trinotate
+upregulated,tube formation,BP,trinotate
+upregulated,tube formation,BP,trinotate
+regulated,type 2 immune response,BP,trinotate
+upregulated,type 2 immune response,BP,trinotate
+upregulated,type 2 immune response,BP,trinotate
+downregulated,Tyrosine metabolism,,KEGG
+downregulated,ubiquinone metabolism,BP,trinotate
+downregulated,ubiquinone metabolism,BP,trinotate
+upregulated,vascular endothelial cell proliferation,BP,trinotate
+upregulated,vascular endothelial cell proliferation,BP,trinotate
+upregulated,vasculature development,BP,trinotate
+upregulated,vasculature development,BP,trinotate
+upregulated,vesicle membrane,CC,trinotate
+upregulated,vesicle membrane,CC,trinotate
+upregulated,vesicle membrane,CC,trinotate
+upregulated,vesicle membrane,CC,trinotate
+upregulated,vesicle membrane,CC,trinotate
+upregulated,visceral motor neuron differentiation,BP,trinotate
+upregulated,visual perception,BP,trinotate
+downregulated,vitamin binding,MF,trinotate
+downregulated,vitamin binding,MF,uniprot
+downregulated,vitamin binding,MF,uniprot
+downregulated,vitamin metabolism,,KEGG
+downregulated,vitamin metabolism,,KEGG
+regulated,vitamin metabolism,,KEGG
+upregulated,Wnt protein binding,MF,trinotate
+upregulated,Wnt protein binding,MF,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,MF,trinotate
+upregulated,Wnt signaling,MF,trinotate
+upregulated,Wnt signaling,MF,trinotate
+upregulated,Wnt signaling,MF,trinotate
+upregulated,Wnt signaling,,KEGG
+upregulated,Wnt signaling,,KEGG
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,MF,trinotate
+upregulated,Wnt signaling,MF,trinotate
+upregulated,Wnt signaling pathway,BP,trinotate
+upregulated,Wnt signaling pathway,BP,trinotate
+upregulated,wound healing,BP,trinotate
+downregulated,xenobiotic metabolism,BP,trinotate
+downregulated,xenobiotic metabolism,,KEGG
+downregulated,xenobiotic metabolism,,KEGG
+downregulated,xenobiotics metabolsim,,KEGG
+downregulated,xenobiotics metabolsim,,KEGG
+regulated,xenobiotics metabolsim,,KEGG
