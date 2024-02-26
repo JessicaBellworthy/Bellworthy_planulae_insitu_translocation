@@ -1,1 +1,649 @@
-direction,term_name,ontology,typedownregulated,ABC transporters,KEGG,KEGGdownregulated,acyl-CoA dehydrogenase,MF,trinotatedownregulated,acyl-CoA dehydrogenase,MF,trinotatedownregulated,acyl-CoA dehydrogenase,MF,uniprotdownregulated,acyl-CoA dehydrogenase,MF,uniprotdownregulated,amino acid metabolism,BP,uniprotdownregulated,amino acid metabolism,BP,trinotateupregulated,ameboidal-type cell migration,BP,trinotatedownregulated,amino acid metabolism,BP,uniprotdownregulated,amino acid metabolism,BP,trinotatedownregulated,amino acid metabolism,BP,uniprotdownregulated,amino acid metabolism,KEGG,KEGGregulated,amino acid metabolism,KEGG,KEGGregulated,amino acid metabolism,KEGG,KEGGdownregulated,ATP,BP,trinotatedownregulated,ATP,BP,trinotatedownregulated,ATP,BP,trinotatedownregulated,ATP,BP,trinotatedownregulated,ATP,BP,trinotatedownregulated,ATP,BP,trinotatedownregulated,ATP,MF,trinotatedownregulated,ATPase,MF,trinotatedownregulated,ATPase,MF,uniprotdownregulated,ATPase,MF,trinotatedownregulated,ATPase,MF,uniprotdownregulated,ATPase,MF,trinotatedownregulated,ATPase,MF,uniprotupregulated,binding,BP,trinotateupregulated,binding,BP,trinotateupregulated,binding,BP,trinotateupregulated,binding,BP,trinotateupregulated,calcium-dependent phospholipid binding,MF,trinotatedownregulated,carbohydrate metabolism,KEGG,KEGGregulated,carbohydrate metabolism,KEGG,KEGGdownregulated,carboxylic acid,BP,trinotatedownregulated,carboxylic acid,BP,uniprotdownregulated,carboxylic acid,BP,trinotatedownregulated,carboxylic acid,BP,trinotateregulated,carboxylic acid,BP,trinotatedownregulated,carboxylic acid,BP,trinotatedownregulated,carboxylic acid,BP,trinotateregulated,carboxylic acid,BP,trinotatedownregulated,carboxylic acid,BP,uniprotdownregulated,catalytic activity,MF,trinotatedownregulated,catalytic activity,MF,trinotatedownregulated,catalytic activity,MF,uniprotdownregulated,catalytic activity,MF,uniprotdownregulated,catalytic activity,MF,uniprotupregulated,catecholamine secretion,BP,trinotateupregulated,catecholamine secretion,BP,trinotateupregulated,catecholamine transport,BP,trinotateupregulated,cation channel activity,MF,trinotateupregulated,cation channel activity,MF,trinotateupregulated,cation channel complex,CC,trinotateupregulated,cation channel complex,CC,trinotateupregulated,cell communication,BP,trinotateupregulated,cell communication,BP,trinotateupregulated,cell communication,BP,trinotateupregulated,cell communication,BP,trinotateupregulated,cell communication,BP,trinotateupregulated,cell communication,BP,trinotateupregulated,cell differentiation,BP,trinotateupregulated,cell differentiation,BP,trinotateupregulated,cell differentiation,BP,trinotateupregulated,cell differentiation,BP,trinotatedownregulated,metabolism,BP,trinotatedownregulated,metabolism,BP,uniprotupregulated,cell migration,BP,trinotateupregulated,cell migration,BP,trinotateupregulated,cell migration,BP,trinotateupregulated,cell migration,BP,trinotateupregulated,cell motility,BP,trinotateupregulated,cell motility,BP,trinotateupregulated,cell motility,BP,trinotateupregulated,cell motility,BP,trinotateupregulated,cell periphery,CC,trinotateupregulated,cell periphery,CC,trinotateupregulated,cell projection membrane,CC,trinotateupregulated,cell surface receptor,BP,trinotateupregulated,cellular component movement,BP,trinotateupregulated,cellular component movement,BP,trinotateupregulated,cellular component movement,BP,trinotateupregulated,cellular process,BP,trinotateupregulated,cellular process,BP,trinotateupregulated,defense response,BP,trinotateupregulated,channel activity,MF,trinotateupregulated,channel activity,MF,trinotatedownregulated,chlorophyll biosynthesis,BP,uniprotdownregulated,chlorophyll biosynthesis,BP,uniprotdownregulated,chlorophyll biosynthesis,BP,trinotatedownregulated,chlorophyll biosynthesis,BP,uniprotdownregulated,chlorophyll biosynthesis,KEGG,KEGGdownregulated,chlorophyll biosynthesis,KEGG,KEGGdownregulated,TCA cycle,KEGG,KEGGupregulated,clathrin binding,MF,trinotatedownregulated,CoA hydrolase activity,MF,trinotatedownregulated,coenzyme synthesis,BP,trinotatedownregulated,coenzyme binding,MF,trinotatedownregulated,coenzyme binding,MF,trinotateregulated,coenzyme binding,MF,trinotatedownregulated,coenzyme binding,MF,uniprotdownregulated,coenzyme binding,MF,uniprotdownregulated,coenzyme synthesis,BP,trinotatedownregulated,coenzyme synthesis,BP,trinotateregulated,coenzyme synthesis,BP,trinotatedownregulated,coenzyme synthesis,BP,uniprotdownregulated,coenzyme synthesis,BP,trinotatedownregulated,coenzyme synthesis,BP,trinotateregulated,coenzyme synthesis,BP,trinotatedownregulated,coenzyme synthesis,BP,uniprotdownregulated,cofactor binding,MF,trinotatedownregulated,cofactor binding,MF,trinotateregulated,cofactor binding,MF,trinotatedownregulated,cofactor binding,MF,uniprotdownregulated,cofactor binding,MF,uniprotdownregulated,cofactor synthesis,BP,trinotatedownregulated,cofactor synthesis,BP,trinotateregulated,cofactor synthesis,BP,trinotatedownregulated,cofactor synthesis,BP,uniprotdownregulated,cofactor synthesis,BP,uniprotdownregulated,cofactor synthesis,BP,trinotatedownregulated,cofactor synthesis,BP,trinotateregulated,cofactor synthesis,BP,trinotatedownregulated,cofactor synthesis,BP,uniprotdownregulated,cofactor synthesis,BP,uniprotregulated,cofactor synthesis,BP,uniprotdownregulated,cytochrome complex assembly,BP,trinotatedownregulated,cytochrome complex assembly,BP,trinotateupregulated,cytokine production,BP,trinotateupregulated,cytokine production,BP,trinotateupregulated,cytokine receptor binding,MF,uniprotdownregulated,cytoplasm,CC,trinotateupregulated,defense response,BP,trinotateupregulated,defense response,BP,trinotateupregulated,defense response,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotateupregulated,development,BP,trinotatedownregulated,DNA methylation,BP,trinotateupregulated,DNA transcription,MF,trinotateupregulated,DNA transcription,MF,trinotateupregulated,DNA transcription,BP,trinotateupregulated,dopamine secretion,BP,trinotateupregulated,dopamine secretion,BP,trinotateupregulated,dopamine transport,BP,trinotatedownregulated,drug metabolism,BP,uniprotdownregulated,electron transfer,BP,trinotatedownregulated,electron transfer,BP,trinotateregulated,electron transfer,BP,trinotatedownregulated,electron transfer,MF,trinotatedownregulated,electron transfer,MF,trinotateregulated,electron transfer,MF,trinotatedownregulated,metabolism,KEGG,KEGGdownregulated,metabolism,KEGG,KEGGregulated,metabolism,KEGG,KEGGdownregulated,envelope,CC,trinotatedownregulated,envelope,CC,trinotateregulated,envelope,CC,trinotatedownregulated,envelope,CC,uniprotupregulated,epithelial cell migration,BP,trinotateupregulated,epithelial cell migration,BP,trinotateupregulated,epithelial cell migration,BP,trinotateregulated,epithelial cell migration,BP,trinotateupregulated,epithelial cell migration,BP,trinotateupregulated,epithelial cell migration,BP,trinotateupregulated,epithelial cell migration,BP,trinotateupregulated,epithelial to mesenchymal transition,BP,trinotateupregulated,epithelial to mesenchymal transition,BP,trinotateupregulated,epithelial cell migration,BP,trinotateupregulated,extracellular region,CC,trinotateupregulated,extracellular region,CC,trinotateupregulated,extracellular region,CC,uniprotupregulated,extracellular region,CC,trinotateupregulated,extracellular region,CC,trinotatedownregulated,FAD,MF,trinotatedownregulated,FAD,MF,trinotatedownregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,BP,trinotateregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,KEGG,KEGGdownregulated,fatty acid metabolism,KEGG,KEGGregulated,fatty acid metabolism,KEGG,KEGGdownregulated,fatty acid metabolism,BP,trinotatedownregulated,fatty acid metabolism,BP,trinotateregulated,fatty acid metabolism,BP,trinotatedownregulated,flavin adenine dinucleotide binding,MF,trinotatedownregulated,flavin adenine dinucleotide binding,MF,trinotateregulated,flavin adenine dinucleotide binding,MF,trinotatedownregulated,flavin adenine dinucleotide binding,MF,uniprotdownregulated,flavin adenine dinucleotide binding,MF,uniprotdownregulated,FMN binding,MF,trinotatedownregulated,FMN binding,MF,uniprotdownregulated,FMN binding,MF,trinotateupregulated,frizzled binding,MF,trinotatedownregulated,fumarate reductase complex,CC,trinotateupregulated,G protein-coupled receptor,MF,trinotateupregulated,G protein-coupled receptor,MF,trinotateupregulated,G protein-coupled receptor,KEGG,KEGGupregulated,G protein-coupled receptor,KEGG,KEGGdownregulated,heme metabolism,BP,trinotatedownregulated,heme metabolism,BP,trinotatedownregulated,heme metabolism,BP,trinotatedownregulated,heme metabolism,BP,trinotatedownregulated,heme metabolism,BP,uniprotdownregulated,heme metabolism,BP,uniprotdownregulated,heme metabolism,BP,trinotatedownregulated,heme metabolism,BP,trinotatedownregulated,heme metabolism,BP,uniprotupregulated,homeostasis,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,immune response,BP,trinotateupregulated,ion channel activity,MF,trinotateupregulated,ion channel activity,MF,trinotateupregulated,ion channel complex,CC,trinotateupregulated,ion channel complex,CC,trinotateupregulated,ion transport,BP,trinotateupregulated,ion transport,BP,trinotatedownregulated,iron-sulfur cluster,BP,trinotatedownregulated,iron-sulfur cluster,BP,trinotateregulated,iron-sulfur cluster,BP,trinotatedownregulated,iron-sulfur cluster,MF,trinotatedownregulated,iron-sulfur cluster,MF,trinotateregulated,iron-sulfur cluster,MF,trinotatedownregulated,iron-sulfur cluster,MF,uniprotdownregulated,iron-sulfur cluster,MF,uniprotdownregulated,ketone biosynthesis,BP,trinotatedownregulated,ketone biosynthesis,BP,trinotatedownregulated,ketone biosynthesis,BP,trinotatedownregulated,lipid catabolism,BP,trinotatedownregulated,lipid catabolism,BP,trinotatedownregulated,lipid catabolism,BP,trinotatedownregulated,lipid catabolism,BP,trinotatedownregulated,lipid metabolism,BP,trinotatedownregulated,lipid metabolism,BP,trinotatedownregulated,lipid metabolism,BP,trinotatedownregulated,lipid oxidation,BP,trinotatedownregulated,lipid oxidation,BP,trinotateupregulated,locomotion,BP,trinotateupregulated,locomotion,BP,trinotateupregulated,locomotion,BP,trinotatedownregulated,L-serine metabolism,BP,trinotatedownregulated,L-serine metabolism,BP,trinotatedownregulated,L-serine metabolism,BP,uniprotdownregulated,lyase activity,MF,trinotatedownregulated,lyase activity,MF,trinotateregulated,lyase activity,MF,trinotateupregulated,MAPK cascade,BP,trinotateupregulated,MAPK cascade,BP,trinotateupregulated,MAPK cascade,BP,trinotateupregulated,MAPK cascade,BP,trinotateupregulated,MAPK cascade,BP,trinotateupregulated,MAPK cascade,BP,trinotateupregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotateregulated,membrane,CC,trinotatedownregulated,membrane,CC,uniprotdownregulated,membrane,CC,trinotatedownregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotateupregulated,membrane,CC,trinotatedownregulated,membrane,KEGG,KEGGdownregulated,metabolism,BP,trinotateregulated,metabolism,BP,trinotatedownregulated,metabolism,BP,trinotatedownregulated,metabolism,BP,uniprotregulated,metabolism,BP,trinotateupregulated,metabolism,BP,trinotatedownregulated,metabolism,BP,uniprotdownregulated,metabolism,KEGG,KEGGdownregulated,metabolism,KEGG,KEGGregulated,metabolism,KEGG,KEGGdownregulated,metal cluster binding,MF,trinotatedownregulated,metal cluster binding,MF,trinotateregulated,metal cluster binding,MF,trinotatedownregulated,metal cluster binding,MF,uniprotdownregulated,metal cluster binding,MF,uniprotdownregulated,metallo-sulfur cluster assembly,BP,trinotatedownregulated,metallo-sulfur cluster assembly,BP,trinotateregulated,metallo-sulfur cluster assembly,BP,trinotatedownregulated,membrane,CC,trinotatedownregulated,mitochondrion,BP,trinotatedownregulated,mitochondrion,BP,trinotatedownregulated,mitochondrion,BP,uniprotdownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotateregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotateregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotateregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotateregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotateregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrial membrane,CC,trinotatedownregulated,mitochondrial membrane,CC,trinotatedownregulated,mitochondrial membrane,CC,trinotatedownregulated,mitochondrial membrane,CC,trinotatedownregulated,mitochondrial membrane,CC,trinotatedownregulated,mitochondrial membrane,CC,trinotateregulated,mitochondrial membrane,CC,trinotatedownregulated,mitochondrial process,KEGG,KEGGdownregulated,mitochondrial process,KEGG,KEGGregulated,mitochondrial process,KEGG,KEGGdownregulated,mitochondrial respiration,BP,trinotatedownregulated,mitochondrial respiration,BP,trinotatedownregulated,mitochondrial respiration,CC,trinotatedownregulated,mitochondrial respiration,CC,trinotatedownregulated,mitochondrial respiration,CC,trinotatedownregulated,mitochondrial translation,BP,trinotatedownregulated,mitochondrial translation,BP,trinotatedownregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,trinotateregulated,mitochondrion,CC,trinotatedownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,CC,uniprotdownregulated,mitochondrion,BP,trinotatedownregulated,mitochondrion,BP,trinotateregulated,mitochondrion,BP,trinotateupregulated,molecular transducer activity,MF,trinotateupregulated,molecular transducer activity,MF,trinotatedownregulated,monocarboxylic acid catabolism,BP,trinotatedownregulated,monocarboxylic acid catabolism,BP,trinotatedownregulated,monocarboxylic acid catabolism,BP,trinotatedownregulated,monocarboxylic acid catabolism,BP,trinotatedownregulated,NAD activity,BP,trinotatedownregulated,NAD activity,MF,trinotatedownregulated,NADH dehydrogenase,MF,trinotatedownregulated,NADH dehydrogenase,MF,trinotatedownregulated,NADH dehydrogenase,MF,trinotateupregulated,nematocyst,CC,trinotatedownregulated,nitrogen metabolism,BP,uniprotdownregulated,nucleobase-containing small molecule metabolic process,BP,trinotatedownregulated,nucleoid,CC,trinotatedownregulated,nucleoid,CC,trinotateregulated,nucleoid,CC,trinotatedownregulated,nucleoside monophosphate metabolic process,BP,trinotatedownregulated,nucleoside monophosphate metabolic process,BP,trinotatedownregulated,nucleoside phosphate binding,MF,trinotatedownregulated,nucleoside phosphate binding,MF,uniprotdownregulated,nucleoside metabolism,BP,trinotatedownregulated,nucleoside metabolism,BP,trinotatedownregulated,nucleoside metabolism,BP,trinotatedownregulated,nucleotide binding,MF,trinotatedownregulated,nucleotide binding,MF,uniprotdownregulated,nucleotide metabolic process,BP,trinotatedownregulated,nucleotide-excision repair,BP,trinotatedownregulated,organelle envelope,CC,trinotatedownregulated,organelle envelope,CC,trinotateregulated,organelle envelope,CC,trinotatedownregulated,organelle envelope,CC,uniprotdownregulated,organelle envelope,CC,trinotatedownregulated,organic acid metabolism,BP,trinotatedownregulated,organic acid metabolism,BP,trinotatedownregulated,organic acid metabolism,BP,trinotateregulated,organic acid metabolism,BP,trinotatedownregulated,organic acid metabolism,BP,trinotatedownregulated,organic acid metabolism,BP,trinotateregulated,organic acid metabolism,BP,trinotatedownregulated,organic acid metabolism,BP,uniprotdownregulated,organic cyclic compound metabolism,BP,uniprotdownregulated,organic substance metabolism,BP,uniprotdownregulated,organic substance metabolism,BP,trinotatedownregulated,organic substance metabolism,BP,uniprotdownregulated,organonitrogen compound metabolic process,BP,uniprotdownregulated,organonitrogen compound metabolic process,BP,trinotatedownregulated,organonitrogen compound metabolic process,BP,uniprotdownregulated,organophosphate metabolic process,BP,trinotateupregulated,ossification,BP,trinotateupregulated,ossification,BP,trinotatedownregulated,oxidation,BP,trinotatedownregulated,oxidation,BP,trinotateregulated,oxidation,BP,trinotatedownregulated,oxidation,BP,uniprotdownregulated,oxidation-reduction process,BP,trinotatedownregulated,oxidation-reduction process,BP,trinotateregulated,oxidation-reduction process,BP,trinotatedownregulated,oxidation-reduction process,BP,uniprotdownregulated,oxidative phosphorylation,BP,trinotatedownregulated,oxidative phosphorylation,BP,trinotateregulated,oxidative phosphorylation,BP,trinotatedownregulated,oxidative phosphorylation,KEGG,KEGGdownregulated,oxidative phosphorylation,KEGG,KEGGdownregulated,oxidoreductase activity,CC,trinotatedownregulated,oxidoreductase activity,CC,trinotatedownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,trinotateregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,uniprotdownregulated,oxidoreductase activity,MF,uniprotdownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,uniprotdownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,trinotateregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,uniprotdownregulated,oxidoreductase activity,MF,uniprotdownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreductase activity,MF,trinotatedownregulated,oxidoreduction coenzyme metabolic process,BP,trinotatedownregulated,oxoacid metabolic process,BP,trinotatedownregulated,oxoacid metabolic process,BP,trinotateregulated,oxoacid metabolic process,BP,trinotatedownregulated,oxoacid metabolic process,BP,uniprotdownregulated,pantothenate kinase activity,MF,trinotatedownregulated,pantothenate kinase activity,MF,uniprotupregulated,phosphate metabolism,BP,trinotateupregulated,phosphate metabolism,BP,trinotateupregulated,phosphate metabolism,BP,trinotateupregulated,phosphate metabolism,BP,trinotatedownregulated,phosphatidylinositol-4-phosphate phosphatase activity,MF,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotateupregulated,phosphorylation,BP,trinotatedownregulated,porphyrin biosynthesis,BP,trinotatedownregulated,porphyrin biosynthesis,BP,trinotatedownregulated,porphyrin biosynthesis,BP,uniprotdownregulated,porphyrin biosynthesis,BP,trinotatedownregulated,porphyrin biosynthesis,BP,trinotatedownregulated,porphyrin biosynthesis,BP,uniprotdownregulated,precursor metabolites,BP,trinotatedownregulated,precursor metabolites,BP,trinotateregulated,precursor metabolites,BP,trinotatedownregulated,precursor metabolites,BP,uniprotdownregulated,Prenyltransferases ,KEGG,KEGGupregulated,presynaptic cytosolic calcium ion concentration,BP,trinotateupregulated,protein binding,BP,trinotateupregulated,protein binding,MF,uniprotupregulated,protein binding,MF,uniprotupregulated,protein modification,BP,trinotateupregulated,protein phosphorylation,BP,trinotateupregulated,protein phosphorylation,BP,trinotateregulated,pteridine metabolism,BP,trinotateupregulated,pteridine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,purine metabolism,BP,trinotatedownregulated,pyridine metabolism,BP,trinotatedownregulated,pyridine metabolism,BP,trinotatedownregulated,pyridoxal phosphate binding,MF,trinotatedownregulated,quinone metabolism,BP,trinotatedownregulated,quinone metabolism,BP,trinotatedownregulated,quinone metabolism,BP,trinotatedownregulated,quinone metabolism,BP,trinotateregulated,quinone metabolism,BP,trinotateupregulated,receptor antagonist activity,MF,trinotateupregulated,receptor complex,CC,trinotateupregulated,receptor complex,CC,trinotateupregulated,receptor inhibitor activity,MF,trinotatedownregulated,respiration,BP,trinotatedownregulated,respiration,BP,trinotatedownregulated,respiration,BP,trinotateregulated,respiration,BP,trinotatedownregulated,respiration,BP,trinotatedownregulated,respiration,BP,trinotatedownregulated,respiration,BP,trinotatedownregulated,respiration,BP,trinotateregulated,respiration,BP,trinotatedownregulated,respiration,CC,trinotatedownregulated,respiration,CC,trinotatedownregulated,respiration,CC,trinotatedownregulated,respiration,CC,trinotatedownregulated,respiration,CC,trinotatedownregulated,response to freezing,BP,trinotatedownregulated,response to paraquat,BP,trinotatedownregulated,response to salt stress,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotateupregulated,response to stimulus,BP,trinotatedownregulated,ribonucleoside monophosphate metabolic process,BP,trinotatedownregulated,ribonucleoside monophosphate metabolic process,BP,trinotatedownregulated,ribonucleoside triphosphate metabolic process,BP,trinotatedownregulated,ribonucleoside triphosphate metabolic process,BP,trinotatedownregulated,ribonucleotide metabolic process,BP,trinotatedownregulated,ribose phosphate metabolic process,BP,trinotatedownregulated,Ribosome biogenesis ,KEGG,KEGGdownregulated,RNA metabolism,KEGG,KEGGdownregulated,RNA metabolism,BP,trinotateupregulated,RNA transcription,MF,trinotatedownregulated,serine family amino acid biosynthetic process,BP,uniprotdownregulated,serine family amino acid metabolic process,BP,uniprotupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,BP,trinotateupregulated,signaling,CC,trinotateupregulated,signaling,CC,trinotateupregulated,signaling,MF,trinotateupregulated,signaling,MF,trinotateupregulated,signaling,MF,trinotateupregulated,signaling,MF,trinotateupregulated,signaling,MF,uniprotupregulated,signaling,MF,uniprotupregulated,signaling,MF,trinotateupregulated,signaling,MF,trinotateupregulated,signaling,KEGG,KEGGupregulated,signaling,KEGG,KEGGdownregulated,small molecule binding,MF,trinotatedownregulated,small molecule binding,MF,uniprotdownregulated,small molecule metabolism,BP,trinotatedownregulated,small molecule metabolism,BP,trinotatedownregulated,small molecule metabolism,BP,uniprotdownregulated,small molecule metabolism,BP,trinotatedownregulated,small molecule metabolism,BP,trinotateregulated,small molecule metabolism,BP,trinotatedownregulated,small molecule metabolism,BP,trinotatedownregulated,small molecule metabolism,BP,trinotateregulated,small molecule metabolism,BP,trinotatedownregulated,small molecule metabolism,BP,uniprotdownregulated,succinate dehydrogenase activity,MF,trinotatedownregulated,succinate dehydrogenase activity,MF,trinotatedownregulated,succinate dehydrogenase complex,CC,trinotatedownregulated,succinate dehydrogenase complex ,CC,trinotatedownregulated,sulfur cluster binding,MF,trinotatedownregulated,sulfur cluster binding,MF,trinotateregulated,sulfur cluster binding,MF,trinotatedownregulated,sulfur cluster binding,MF,trinotatedownregulated,sulfur cluster binding,MF,trinotatedownregulated,sulfur cluster binding,MF,uniprotdownregulated,tetrapyrrole biosynthetic process,BP,trinotatedownregulated,tetrapyrrole biosynthetic process,BP,trinotatedownregulated,tetrapyrrole biosynthetic process,BP,uniprotdownregulated,tetrapyrrole metabolic process,BP,trinotatedownregulated,tetrapyrrole metabolic process,BP,trinotatedownregulated,thiolester hydrolase activity,MF,trinotateupregulated,tissue migration,BP,trinotatedownregulated,trans-hexaprenyltranstransferase activity,MF,trinotatedownregulated,trans-hexaprenyltranstransferase activity,MF,trinotateupregulated,transmembrane transport,CC,trinotateupregulated,transmembrane transport,CC,trinotateupregulated,transmembrane transport,CC,trinotateupregulated,transmembrane transport,CC,trinotateupregulated,transmembrane transport,MF,trinotateupregulated,transmembrane transport,MF,trinotatedownregulated,transmembrane transport,MF,trinotatedownregulated,transmembrane transport,MF,uniprotdownregulated,transmembrane transporter,MF,uniprotdownregulated,trans-octaprenyltranstransferase activity,MF,trinotatedownregulated,trans-octaprenyltranstransferase activity,MF,trinotateupregulated,tumor necrosis factor ,MF,uniprotupregulated,tumor necrosis factor ,MF,uniprotdownregulated,ubiquinone metabolism,BP,trinotatedownregulated,ubiquinone metabolism,BP,trinotatedownregulated,ubiquinone metabolism,BP,trinotatedownregulated,ubiquinone metabolism,BP,trinotatedownregulated,UDP-N-acetylglucosamine diphosphorylase activity,MF,trinotatedownregulated,vitamin binding,MF,trinotatedownregulated,vitamin metabolism,BP,trinotatedownregulated,vitamin metabolism,BP,trinotatedownregulated,vitamin metabolism,KEGG,KEGGdownregulated,vitamin metabolism,KEGG,KEGGregulated,vitamin metabolism,KEGG,KEGGupregulated,Wnt signaling,BP,trinotateupregulated,Wnt signaling,BP,trinotateupregulated,Wnt signaling,KEGG,KEGG
+direction,term_name,ontology,type
+downregulated,ABC transporters,KEGG,KEGG
+downregulated,acyl-CoA dehydrogenase,MF,trinotate
+downregulated,acyl-CoA dehydrogenase,MF,trinotate
+downregulated,acyl-CoA dehydrogenase,MF,uniprot
+downregulated,acyl-CoA dehydrogenase,MF,uniprot
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+upregulated,ameboidal-type cell migration,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,BP,trinotate
+downregulated,amino acid metabolism,BP,uniprot
+downregulated,amino acid metabolism,KEGG,KEGG
+regulated,amino acid metabolism,KEGG,KEGG
+regulated,amino acid metabolism,KEGG,KEGG
+downregulated,ATP,BP,trinotate
+downregulated,ATP,BP,trinotate
+downregulated,ATP,BP,trinotate
+downregulated,ATP,BP,trinotate
+downregulated,ATP,BP,trinotate
+downregulated,ATP,BP,trinotate
+downregulated,ATP,MF,trinotate
+downregulated,ATPase,MF,trinotate
+downregulated,ATPase,MF,uniprot
+downregulated,ATPase,MF,trinotate
+downregulated,ATPase,MF,uniprot
+downregulated,ATPase,MF,trinotate
+downregulated,ATPase,MF,uniprot
+upregulated,binding,BP,trinotate
+upregulated,binding,BP,trinotate
+upregulated,binding,BP,trinotate
+upregulated,binding,BP,trinotate
+upregulated,calcium-dependent phospholipid binding,MF,trinotate
+downregulated,carbohydrate metabolism,KEGG,KEGG
+regulated,carbohydrate metabolism,KEGG,KEGG
+downregulated,carboxylic acid,BP,trinotate
+downregulated,carboxylic acid,BP,uniprot
+downregulated,carboxylic acid,BP,trinotate
+downregulated,carboxylic acid,BP,trinotate
+regulated,carboxylic acid,BP,trinotate
+downregulated,carboxylic acid,BP,trinotate
+downregulated,carboxylic acid,BP,trinotate
+regulated,carboxylic acid,BP,trinotate
+downregulated,carboxylic acid,BP,uniprot
+downregulated,catalytic activity,MF,trinotate
+downregulated,catalytic activity,MF,trinotate
+downregulated,catalytic activity,MF,uniprot
+downregulated,catalytic activity,MF,uniprot
+downregulated,catalytic activity,MF,uniprot
+upregulated,catecholamine secretion,BP,trinotate
+upregulated,catecholamine secretion,BP,trinotate
+upregulated,catecholamine transport,BP,trinotate
+upregulated,cation channel activity,MF,trinotate
+upregulated,cation channel activity,MF,trinotate
+upregulated,cation channel complex,CC,trinotate
+upregulated,cation channel complex,CC,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell communication,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+upregulated,cell differentiation,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell migration,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell motility,BP,trinotate
+upregulated,cell periphery,CC,trinotate
+upregulated,cell periphery,CC,trinotate
+upregulated,cell projection membrane,CC,trinotate
+upregulated,cell surface receptor,BP,trinotate
+upregulated,cellular component movement,BP,trinotate
+upregulated,cellular component movement,BP,trinotate
+upregulated,cellular component movement,BP,trinotate
+upregulated,cellular process,BP,trinotate
+upregulated,cellular process,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,channel activity,MF,trinotate
+upregulated,channel activity,MF,trinotate
+downregulated,chlorophyll biosynthesis,BP,uniprot
+downregulated,porphyrin biosynthesis,BP,uniprot
+downregulated,porphyrin biosynthesis,BP,trinotate
+downregulated,porphyrin biosynthesis,BP,uniprot
+downregulated,porphyrin biosynthesis,KEGG,KEGG
+downregulated,porphyrin biosynthesis,KEGG,KEGG
+downregulated,TCA cycle,KEGG,KEGG
+upregulated,clathrin binding,MF,trinotate
+downregulated,CoA hydrolase activity,MF,trinotate
+downregulated,coenzyme synthesis,BP,trinotate
+downregulated,coenzyme binding,MF,trinotate
+downregulated,coenzyme binding,MF,trinotate
+regulated,coenzyme binding,MF,trinotate
+downregulated,coenzyme binding,MF,uniprot
+downregulated,coenzyme binding,MF,uniprot
+downregulated,coenzyme synthesis,BP,trinotate
+downregulated,coenzyme synthesis,BP,trinotate
+regulated,coenzyme synthesis,BP,trinotate
+downregulated,coenzyme synthesis,BP,uniprot
+downregulated,coenzyme synthesis,BP,trinotate
+downregulated,coenzyme synthesis,BP,trinotate
+regulated,coenzyme synthesis,BP,trinotate
+downregulated,coenzyme synthesis,BP,uniprot
+downregulated,cofactor binding,MF,trinotate
+downregulated,cofactor binding,MF,trinotate
+regulated,cofactor binding,MF,trinotate
+downregulated,cofactor binding,MF,uniprot
+downregulated,cofactor binding,MF,uniprot
+downregulated,cofactor synthesis,BP,trinotate
+downregulated,cofactor synthesis,BP,trinotate
+regulated,cofactor synthesis,BP,trinotate
+downregulated,cofactor synthesis,BP,uniprot
+downregulated,cofactor synthesis,BP,uniprot
+downregulated,cofactor synthesis,BP,trinotate
+downregulated,cofactor synthesis,BP,trinotate
+regulated,cofactor synthesis,BP,trinotate
+downregulated,cofactor synthesis,BP,uniprot
+downregulated,cofactor synthesis,BP,uniprot
+regulated,cofactor synthesis,BP,uniprot
+downregulated,cytochrome complex assembly,BP,trinotate
+downregulated,cytochrome complex assembly,BP,trinotate
+upregulated,cytokine production,BP,trinotate
+upregulated,cytokine production,BP,trinotate
+upregulated,cytokine receptor binding,MF,uniprot
+downregulated,cytoplasm,CC,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,defense response,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+upregulated,development,BP,trinotate
+downregulated,DNA methylation,BP,trinotate
+upregulated,DNA transcription,MF,trinotate
+upregulated,DNA transcription,MF,trinotate
+upregulated,DNA transcription,BP,trinotate
+upregulated,dopamine secretion,BP,trinotate
+upregulated,dopamine secretion,BP,trinotate
+upregulated,dopamine transport,BP,trinotate
+downregulated,drug metabolism,BP,uniprot
+downregulated,electron transfer,BP,trinotate
+downregulated,electron transfer,BP,trinotate
+regulated,electron transfer,BP,trinotate
+downregulated,electron transfer,MF,trinotate
+downregulated,electron transfer,MF,trinotate
+regulated,electron transfer,MF,trinotate
+downregulated,metabolism,KEGG,KEGG
+downregulated,metabolism,KEGG,KEGG
+regulated,metabolism,KEGG,KEGG
+downregulated,envelope,CC,trinotate
+downregulated,envelope,CC,trinotate
+regulated,envelope,CC,trinotate
+downregulated,envelope,CC,uniprot
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+regulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,epithelial to mesenchymal transition,BP,trinotate
+upregulated,epithelial to mesenchymal transition,BP,trinotate
+upregulated,epithelial cell migration,BP,trinotate
+upregulated,extracellular region,CC,trinotate
+upregulated,extracellular region,CC,trinotate
+upregulated,extracellular region,CC,uniprot
+upregulated,extracellular region,CC,trinotate
+upregulated,extracellular region,CC,trinotate
+downregulated,FAD,MF,trinotate
+downregulated,FAD,MF,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+regulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,KEGG,KEGG
+downregulated,fatty acid metabolism,KEGG,KEGG
+regulated,fatty acid metabolism,KEGG,KEGG
+downregulated,fatty acid metabolism,BP,trinotate
+downregulated,fatty acid metabolism,BP,trinotate
+regulated,fatty acid metabolism,BP,trinotate
+downregulated,flavin adenine dinucleotide binding,MF,trinotate
+downregulated,flavin adenine dinucleotide binding,MF,trinotate
+regulated,flavin adenine dinucleotide binding,MF,trinotate
+downregulated,flavin adenine dinucleotide binding,MF,uniprot
+downregulated,flavin adenine dinucleotide binding,MF,uniprot
+downregulated,FMN binding,MF,trinotate
+downregulated,FMN binding,MF,uniprot
+downregulated,FMN binding,MF,trinotate
+upregulated,frizzled binding,MF,trinotate
+downregulated,fumarate reductase complex,CC,trinotate
+upregulated,G protein-coupled receptor,MF,trinotate
+upregulated,G protein-coupled receptor,MF,trinotate
+upregulated,G protein-coupled receptor,KEGG,KEGG
+upregulated,G protein-coupled receptor,KEGG,KEGG
+downregulated,heme metabolism,BP,trinotate
+downregulated,heme metabolism,BP,trinotate
+downregulated,heme metabolism,BP,trinotate
+downregulated,heme metabolism,BP,trinotate
+downregulated,heme metabolism,BP,uniprot
+downregulated,heme metabolism,BP,uniprot
+downregulated,heme metabolism,BP,trinotate
+downregulated,heme metabolism,BP,trinotate
+downregulated,heme metabolism,BP,uniprot
+upregulated,homeostasis,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,immune response,BP,trinotate
+upregulated,ion channel activity,MF,trinotate
+upregulated,ion channel activity,MF,trinotate
+upregulated,ion channel complex,CC,trinotate
+upregulated,ion channel complex,CC,trinotate
+upregulated,ion transport,BP,trinotate
+upregulated,ion transport,BP,trinotate
+downregulated,iron-sulfur cluster,BP,trinotate
+downregulated,iron-sulfur cluster,BP,trinotate
+regulated,iron-sulfur cluster,BP,trinotate
+downregulated,iron-sulfur cluster,MF,trinotate
+downregulated,iron-sulfur cluster,MF,trinotate
+regulated,iron-sulfur cluster,MF,trinotate
+downregulated,iron-sulfur cluster,MF,uniprot
+downregulated,iron-sulfur cluster,MF,uniprot
+downregulated,ketone biosynthesis,BP,trinotate
+downregulated,ketone biosynthesis,BP,trinotate
+downregulated,ketone biosynthesis,BP,trinotate
+downregulated,lipid catabolism,BP,trinotate
+downregulated,lipid catabolism,BP,trinotate
+downregulated,lipid catabolism,BP,trinotate
+downregulated,lipid catabolism,BP,trinotate
+downregulated,lipid metabolism,BP,trinotate
+downregulated,lipid metabolism,BP,trinotate
+downregulated,lipid metabolism,BP,trinotate
+downregulated,lipid oxidation,BP,trinotate
+downregulated,lipid oxidation,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+upregulated,locomotion,BP,trinotate
+downregulated,L-serine metabolism,BP,trinotate
+downregulated,L-serine metabolism,BP,trinotate
+downregulated,L-serine metabolism,BP,uniprot
+downregulated,lyase activity,MF,trinotate
+downregulated,lyase activity,MF,trinotate
+regulated,lyase activity,MF,trinotate
+upregulated,MAPK cascade,BP,trinotate
+upregulated,MAPK cascade,BP,trinotate
+upregulated,MAPK cascade,BP,trinotate
+upregulated,MAPK cascade,BP,trinotate
+upregulated,MAPK cascade,BP,trinotate
+upregulated,MAPK cascade,BP,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+regulated,membrane,CC,trinotate
+downregulated,membrane,CC,uniprot
+downregulated,membrane,CC,trinotate
+downregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+upregulated,membrane,CC,trinotate
+downregulated,membrane,KEGG,KEGG
+downregulated,metabolism,BP,trinotate
+regulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+regulated,metabolism,BP,trinotate
+upregulated,metabolism,BP,trinotate
+downregulated,metabolism,BP,uniprot
+downregulated,metabolism,KEGG,KEGG
+downregulated,metabolism,KEGG,KEGG
+regulated,metabolism,KEGG,KEGG
+downregulated,metal cluster binding,MF,trinotate
+downregulated,metal cluster binding,MF,trinotate
+regulated,metal cluster binding,MF,trinotate
+downregulated,metal cluster binding,MF,uniprot
+downregulated,metal cluster binding,MF,uniprot
+downregulated,metallo-sulfur cluster assembly,BP,trinotate
+downregulated,metallo-sulfur cluster assembly,BP,trinotate
+regulated,metallo-sulfur cluster assembly,BP,trinotate
+downregulated,membrane,CC,trinotate
+downregulated,mitochondrion,BP,trinotate
+downregulated,mitochondrion,BP,trinotate
+downregulated,mitochondrion,BP,uniprot
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+regulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+regulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+regulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+regulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+regulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrial membrane,CC,trinotate
+downregulated,mitochondrial membrane,CC,trinotate
+downregulated,mitochondrial membrane,CC,trinotate
+downregulated,mitochondrial membrane,CC,trinotate
+downregulated,mitochondrial membrane,CC,trinotate
+downregulated,mitochondrial membrane,CC,trinotate
+regulated,mitochondrial membrane,CC,trinotate
+downregulated,mitochondrial process,KEGG,KEGG
+downregulated,mitochondrial process,KEGG,KEGG
+regulated,mitochondrial process,KEGG,KEGG
+downregulated,mitochondrial respiration,BP,trinotate
+downregulated,mitochondrial respiration,BP,trinotate
+downregulated,mitochondrial respiration,CC,trinotate
+downregulated,mitochondrial respiration,CC,trinotate
+downregulated,mitochondrial respiration,CC,trinotate
+downregulated,mitochondrial translation,BP,trinotate
+downregulated,mitochondrial translation,BP,trinotate
+downregulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,trinotate
+regulated,mitochondrion,CC,trinotate
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,CC,uniprot
+downregulated,mitochondrion,BP,trinotate
+downregulated,mitochondrion,BP,trinotate
+regulated,mitochondrion,BP,trinotate
+upregulated,molecular transducer activity,MF,trinotate
+upregulated,molecular transducer activity,MF,trinotate
+downregulated,monocarboxylic acid catabolism,BP,trinotate
+downregulated,monocarboxylic acid catabolism,BP,trinotate
+downregulated,monocarboxylic acid catabolism,BP,trinotate
+downregulated,monocarboxylic acid catabolism,BP,trinotate
+downregulated,NAD activity,BP,trinotate
+downregulated,NAD activity,MF,trinotate
+downregulated,NADH dehydrogenase,MF,trinotate
+downregulated,NADH dehydrogenase,MF,trinotate
+downregulated,NADH dehydrogenase,MF,trinotate
+upregulated,nematocyst,CC,trinotate
+downregulated,nitrogen metabolism,BP,uniprot
+downregulated,nucleobase-containing small molecule metabolic process,BP,trinotate
+downregulated,nucleoid,CC,trinotate
+downregulated,nucleoid,CC,trinotate
+regulated,nucleoid,CC,trinotate
+downregulated,nucleoside monophosphate metabolic process,BP,trinotate
+downregulated,nucleoside monophosphate metabolic process,BP,trinotate
+downregulated,nucleoside phosphate binding,MF,trinotate
+downregulated,nucleoside phosphate binding,MF,uniprot
+downregulated,nucleoside metabolism,BP,trinotate
+downregulated,nucleoside metabolism,BP,trinotate
+downregulated,nucleoside metabolism,BP,trinotate
+downregulated,nucleotide binding,MF,trinotate
+downregulated,nucleotide binding,MF,uniprot
+downregulated,nucleotide metabolic process,BP,trinotate
+downregulated,nucleotide-excision repair,BP,trinotate
+downregulated,organelle envelope,CC,trinotate
+downregulated,organelle envelope,CC,trinotate
+regulated,organelle envelope,CC,trinotate
+downregulated,organelle envelope,CC,uniprot
+downregulated,organelle envelope,CC,trinotate
+downregulated,organic acid metabolism,BP,trinotate
+downregulated,organic acid metabolism,BP,trinotate
+downregulated,organic acid metabolism,BP,trinotate
+regulated,organic acid metabolism,BP,trinotate
+downregulated,organic acid metabolism,BP,trinotate
+downregulated,organic acid metabolism,BP,trinotate
+regulated,organic acid metabolism,BP,trinotate
+downregulated,organic acid metabolism,BP,uniprot
+downregulated,organic cyclic compound metabolism,BP,uniprot
+downregulated,organic substance metabolism,BP,uniprot
+downregulated,organic substance metabolism,BP,trinotate
+downregulated,organic substance metabolism,BP,uniprot
+downregulated,organonitrogen compound metabolic process,BP,uniprot
+downregulated,organonitrogen compound metabolic process,BP,trinotate
+downregulated,organonitrogen compound metabolic process,BP,uniprot
+downregulated,organophosphate metabolic process,BP,trinotate
+upregulated,ossification,BP,trinotate
+upregulated,ossification,BP,trinotate
+downregulated,oxidation,BP,trinotate
+downregulated,oxidation,BP,trinotate
+regulated,oxidation,BP,trinotate
+downregulated,oxidation,BP,uniprot
+downregulated,oxidation-reduction process,BP,trinotate
+downregulated,oxidation-reduction process,BP,trinotate
+regulated,oxidation-reduction process,BP,trinotate
+downregulated,oxidation-reduction process,BP,uniprot
+downregulated,oxidative phosphorylation,BP,trinotate
+downregulated,oxidative phosphorylation,BP,trinotate
+regulated,oxidative phosphorylation,BP,trinotate
+downregulated,oxidative phosphorylation,KEGG,KEGG
+downregulated,oxidative phosphorylation,KEGG,KEGG
+downregulated,oxidoreductase activity,CC,trinotate
+downregulated,oxidoreductase activity,CC,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+regulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+regulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,uniprot
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreductase activity,MF,trinotate
+downregulated,oxidoreduction coenzyme metabolic process,BP,trinotate
+downregulated,oxoacid metabolic process,BP,trinotate
+downregulated,oxoacid metabolic process,BP,trinotate
+regulated,oxoacid metabolic process,BP,trinotate
+downregulated,oxoacid metabolic process,BP,uniprot
+downregulated,pantothenate kinase activity,MF,trinotate
+downregulated,pantothenate kinase activity,MF,uniprot
+upregulated,phosphate metabolism,BP,trinotate
+upregulated,phosphate metabolism,BP,trinotate
+upregulated,phosphate metabolism,BP,trinotate
+upregulated,phosphate metabolism,BP,trinotate
+downregulated,phosphatidylinositol-4-phosphate phosphatase activity,MF,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+upregulated,phosphorylation,BP,trinotate
+downregulated,porphyrin biosynthesis,BP,trinotate
+downregulated,porphyrin biosynthesis,BP,trinotate
+downregulated,porphyrin biosynthesis,BP,uniprot
+downregulated,porphyrin biosynthesis,BP,trinotate
+downregulated,porphyrin biosynthesis,BP,trinotate
+downregulated,porphyrin biosynthesis,BP,uniprot
+downregulated,precursor metabolites,BP,trinotate
+downregulated,precursor metabolites,BP,trinotate
+regulated,precursor metabolites,BP,trinotate
+downregulated,precursor metabolites,BP,uniprot
+downregulated,Prenyltransferases ,KEGG,KEGG
+upregulated,presynaptic cytosolic calcium ion concentration,BP,trinotate
+upregulated,protein binding,BP,trinotate
+upregulated,protein binding,MF,uniprot
+upregulated,protein binding,MF,uniprot
+upregulated,protein modification,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+upregulated,protein phosphorylation,BP,trinotate
+regulated,pteridine metabolism,BP,trinotate
+upregulated,pteridine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,purine metabolism,BP,trinotate
+downregulated,pyridine metabolism,BP,trinotate
+downregulated,pyridine metabolism,BP,trinotate
+downregulated,pyridoxal phosphate binding,MF,trinotate
+downregulated,quinone metabolism,BP,trinotate
+downregulated,quinone metabolism,BP,trinotate
+downregulated,quinone metabolism,BP,trinotate
+downregulated,quinone metabolism,BP,trinotate
+regulated,quinone metabolism,BP,trinotate
+upregulated,receptor antagonist activity,MF,trinotate
+upregulated,receptor complex,CC,trinotate
+upregulated,receptor complex,CC,trinotate
+upregulated,receptor inhibitor activity,MF,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+regulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+downregulated,respiration,BP,trinotate
+regulated,respiration,BP,trinotate
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+downregulated,respiration,CC,trinotate
+downregulated,response to freezing,BP,trinotate
+downregulated,response to paraquat,BP,trinotate
+downregulated,response to salt stress,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+upregulated,response to stimulus,BP,trinotate
+downregulated,ribonucleoside monophosphate metabolic process,BP,trinotate
+downregulated,ribonucleoside monophosphate metabolic process,BP,trinotate
+downregulated,ribonucleoside triphosphate metabolic process,BP,trinotate
+downregulated,ribonucleoside triphosphate metabolic process,BP,trinotate
+downregulated,ribonucleotide metabolic process,BP,trinotate
+downregulated,ribose phosphate metabolic process,BP,trinotate
+downregulated,Ribosome biogenesis ,KEGG,KEGG
+downregulated,RNA metabolism,KEGG,KEGG
+downregulated,RNA metabolism,BP,trinotate
+upregulated,RNA transcription,MF,trinotate
+downregulated,serine family amino acid biosynthetic process,BP,uniprot
+downregulated,serine family amino acid metabolic process,BP,uniprot
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,BP,trinotate
+upregulated,signaling,CC,trinotate
+upregulated,signaling,CC,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,MF,uniprot
+upregulated,signaling,MF,uniprot
+upregulated,signaling,MF,trinotate
+upregulated,signaling,MF,trinotate
+upregulated,signaling,KEGG,KEGG
+upregulated,signaling,KEGG,KEGG
+downregulated,small molecule binding,MF,trinotate
+downregulated,small molecule binding,MF,uniprot
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,uniprot
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,trinotate
+regulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,trinotate
+regulated,small molecule metabolism,BP,trinotate
+downregulated,small molecule metabolism,BP,uniprot
+downregulated,succinate dehydrogenase activity,MF,trinotate
+downregulated,succinate dehydrogenase activity,MF,trinotate
+downregulated,succinate dehydrogenase complex,CC,trinotate
+downregulated,succinate dehydrogenase complex ,CC,trinotate
+downregulated,sulfur cluster binding,MF,trinotate
+downregulated,sulfur cluster binding,MF,trinotate
+regulated,sulfur cluster binding,MF,trinotate
+downregulated,sulfur cluster binding,MF,trinotate
+downregulated,sulfur cluster binding,MF,trinotate
+downregulated,sulfur cluster binding,MF,uniprot
+downregulated,tetrapyrrole biosynthetic process,BP,trinotate
+downregulated,tetrapyrrole biosynthetic process,BP,trinotate
+downregulated,tetrapyrrole biosynthetic process,BP,uniprot
+downregulated,tetrapyrrole metabolic process,BP,trinotate
+downregulated,tetrapyrrole metabolic process,BP,trinotate
+downregulated,thiolester hydrolase activity,MF,trinotate
+upregulated,tissue migration,BP,trinotate
+downregulated,trans-hexaprenyltranstransferase activity,MF,trinotate
+downregulated,trans-hexaprenyltranstransferase activity,MF,trinotate
+upregulated,transmembrane transport,CC,trinotate
+upregulated,transmembrane transport,CC,trinotate
+upregulated,transmembrane transport,CC,trinotate
+upregulated,transmembrane transport,CC,trinotate
+upregulated,transmembrane transport,MF,trinotate
+upregulated,transmembrane transport,MF,trinotate
+downregulated,transmembrane transport,MF,trinotate
+downregulated,transmembrane transport,MF,uniprot
+downregulated,transmembrane transporter,MF,uniprot
+downregulated,trans-octaprenyltranstransferase activity,MF,trinotate
+downregulated,trans-octaprenyltranstransferase activity,MF,trinotate
+upregulated,tumor necrosis factor ,MF,uniprot
+upregulated,tumor necrosis factor ,MF,uniprot
+downregulated,ubiquinone metabolism,BP,trinotate
+downregulated,ubiquinone metabolism,BP,trinotate
+downregulated,ubiquinone metabolism,BP,trinotate
+downregulated,ubiquinone metabolism,BP,trinotate
+downregulated,UDP-N-acetylglucosamine diphosphorylase activity,MF,trinotate
+downregulated,vitamin binding,MF,trinotate
+downregulated,vitamin metabolism,BP,trinotate
+downregulated,vitamin metabolism,BP,trinotate
+downregulated,vitamin metabolism,KEGG,KEGG
+downregulated,vitamin metabolism,KEGG,KEGG
+regulated,vitamin metabolism,KEGG,KEGG
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,BP,trinotate
+upregulated,Wnt signaling,KEGG,KEGG
