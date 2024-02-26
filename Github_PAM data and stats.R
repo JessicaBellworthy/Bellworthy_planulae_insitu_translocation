@@ -7,6 +7,7 @@ library(dplyr)
 library(reshape2)
 library(rstatix)
 library(cowplot)
+library(ggpubr)
 rm(list=ls())
 
 #calculating RLC parameters using phytotools (pratt 1980)
@@ -328,10 +329,11 @@ View(in.data)
 
 in.etr = ggplot(in.data, aes(y = ETRmax, x = treatment)) +
   geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5, alpha = 0.7, lwd = 0.2)+
-  geom_jitter(aes(shape= year), position = position_jitter(width = .25), fill = "black", size = 0.4)+
+  # geom_jitter(aes(shape= year), position = position_jitter(width = .25), fill = "black", size = 0.4)+
+  geom_jitter(position = position_jitter(width = .25), fill = "black", size = 0.25)+
   facet_wrap(facets = "age", nrow = 1)+
   mytheme+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_shape_manual(values = c(19, 17))+
   scale_y_continuous(limits = c(0, 50, 10))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
@@ -341,10 +343,11 @@ in.etr
 
 in.alpha= ggplot(in.data, aes(y = alpha, x = treatment)) +
   geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5, alpha = 0.7, lwd = 0.2)+
-  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.4,fill = "black")+
-  facet_wrap(facets = "age", nrow = 1)+
+  #  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.4,fill = "black")+
+  geom_jitter(position = position_jitter(width = .25), fill = "black", size = 0.25)+
+   facet_wrap(facets = "age", nrow = 1)+
   mytheme+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_shape_manual(values = c(17, 19))+
   scale_y_continuous(limits = c(0.2, 0.9, 0.2))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
@@ -354,10 +357,11 @@ in.alpha
 
 in.beta= ggplot(in.data, aes(y = beta, x = treatment)) +
   geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5, alpha = 0.7, lwd = 0.2)+
-  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.4, fill = "black")+
-  facet_wrap(facets = "age", nrow = 1)+
+  #  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.4, fill = "black")+
+  geom_jitter(position = position_jitter(width = .25), fill = "black", size = 0.25)+
+    facet_wrap(facets = "age", nrow = 1)+
 mytheme+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_shape_manual(values = c(17, 19))+
   scale_y_continuous(limits = c(-0.2, 10, 2.5))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
@@ -366,12 +370,14 @@ mytheme+
 in.beta
 
 in.data.Ek = subset(in.data, Ek < 90)
+
 in.eK= ggplot(in.data.Ek, aes(y = Ek, x = treatment)) +
  geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5, alpha = 0.7, lwd = 0.2)+
-  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.4, fill = "black")+
+  #  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.4, fill = "black")+
+  geom_jitter(position = position_jitter(width = .25), fill = "black", size = 0.25)+
   facet_wrap(facets = "age", nrow = 1)+
 mytheme+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_shape_manual(values = c(17, 19))+
   scale_y_continuous(limits = c(0, 100, 20))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
@@ -381,11 +387,12 @@ in.eK
 
 in.fvfm= ggplot(in.data, aes(y = fvfm, x = treatment)) +
   geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5, alpha = 0.7, lwd = 0.2)+
-  geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.7, fill = "black")+
- facet_wrap(facets = "age", nrow = 1)+
+  # geom_jitter(aes(shape= year), position = position_jitter(width = .25), size = 0.7, fill = "black")+
+  geom_jitter(position = position_jitter(width = .25), fill = "black", size = 0.25)+
+  facet_wrap(facets = "age", nrow = 1)+
 mytheme+
   labs(y= ~F[V] ~F[M])+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_shape_manual(values = c(17, 19))+
   scale_y_continuous(limits = c(0.3, 0.7, 0.2))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
@@ -398,10 +405,10 @@ in.plots <- plot_grid(in.etr, in.alpha,in.eK, in.fvfm, labels = c('A', 'B', 'C',
                        label_y = 0.985, label_size = 14,ncol = 1, align = "v", byrow = F, hjust =2)
 
 in.plots
-ggsave("PAM_insitu_byday_stat_StyloSpat_new.jpeg", plot = in.plots, width = 12, height = 18,dpi=300, 
+ggsave("PAM_insitu_byday_stat_StyloSpat_reclour.jpeg", plot = in.plots, width = 12, height = 18,dpi=300, 
        units = "cm")
 
-ggsave("PAM_insitu_byday_stat_StyloSpat_new.pdf", plot = in.plots, width = 12, height = 18,dpi=300, 
+ggsave("PAM_insitu_byday_stat_StyloSpat_reclour.pdf", plot = in.plots, width = 12, height = 18,dpi=300, 
        units = "cm")
 
 

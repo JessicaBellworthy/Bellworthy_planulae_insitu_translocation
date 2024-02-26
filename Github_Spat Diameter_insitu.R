@@ -90,20 +90,20 @@ p5 = ggplot(data, aes(y = (diameter), x = treatment)) +
   geom_boxplot(aes(fill = treatment), outlier.shape = "", fatten = 0.5, alpha = 0.7, lwd = 0.2)+
   geom_jitter(aes(shape= year), position = position_jitter(width = .25), fill = "black", size = 0.4)+
   facet_wrap(facets = "age_days", nrow = 1)+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_shape_manual(values = c(19, 17))+
   labs(y= ~Spat ~Diameter ~(mm))+
   mytheme+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"))+
   stat_pvalue_manual(stat.size, label = "{p.signif} {p}", tip.length = 0.005, hide.ns = FALSE, size = 2.5)+
   guides(fill = "none", alpha = "none", shape = "none")+
-  scale_y_continuous(limits = c(0, 3.5), breaks = seq(0,3.5,0.5))
+  scale_y_continuous(limits = c(0, 3.5), breaks = seq(0,3.5,1))
 p5
 
 
-ggsave("SpatDiameter_insituStyloSpat2021&2022.jpeg", plot = p5, width = 8, height = 6, dpi=300, 
+ggsave("SpatDiameter_insituStyloSpat_recolour.jpeg", plot = p5, width = 8, height = 6, dpi=300, 
        units = "cm")
-ggsave("SpatDiameter_insituStyloSpat2021&2022.pdf", plot = p5, width = 8, height = 6,dpi=300, 
+ggsave("SpatDiameter_insituStyloSpat_reclour.pdf", plot = p5, width = 8, height = 6,dpi=300, 
        units = "cm")
 
 

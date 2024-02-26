@@ -221,7 +221,7 @@ p.set = ggplot(d, aes(x= treatment, y = pc_set))+
   stat_pvalue_manual(stat_set, label = "{p}", tip.length = 0.005, hide.ns = TRUE, size = 2.5)+
   labs(y = "Mean settlement %")+
   scale_y_continuous(limits = c(-2, 101))+
-  scale_fill_manual(values = c("#FDE725FF", "#238A8DFF", "#55C667FF",  "#404788FF"))
+  scale_fill_manual(values = c("#f0f921", "#FCA510", "#87CEDD",  "#1035AC"))
 p.set
 
 p.dead = ggplot(d, aes(x= treatment, y = pc_dead))+
@@ -233,7 +233,7 @@ p.dead = ggplot(d, aes(x= treatment, y = pc_dead))+
   stat_pvalue_manual(stat_dead, label = "{p}", tip.length = 0.005, hide.ns = TRUE, size = 2.5)+
   labs(y = "Mean mortality %")+
   scale_y_continuous(limits = c(-2, 101))+
-  scale_fill_manual(values = c("#FDE725FF", "#238A8DFF", "#55C667FF",  "#404788FF"))
+  scale_fill_manual(values = c("#f0f921", "#FCA510", "#87CEDD",  "#1035AC"))
 p.dead
 
 
@@ -258,7 +258,7 @@ library(survminer)
 
 
 setwd("/Volumes/CBP_Students/Jessica Bellworthy/Jessica Bellworthy/NSF-BSF Genomic/R")
-k = read.csv("KMinsituAll.csv")
+k = read.csv("KMinsituAll_jitter.csv")
 View(k)
 
 
@@ -281,18 +281,19 @@ summary(fitK)
 
 names(fitK$strata) <- gsub("treatment=", "", names(fitK$strata))
 
-setplot <- ggsurvplot(fitK, size = 2,
-                      pval = TRUE, pval.method = TRUE,
-                      pval.coord = c(0.4, 0.4),
+setplot <- ggsurvplot(fitK, size = 1,
+                       pval = TRUE, pval.method = TRUE,
+                     pval.coord = c(0.4, 0.4),
                       pval.method.coord = c(0.4, 0.48),
                       fun = "event",
                       ggtheme = theme_classic()+
-                        theme(axis.ticks = element_line(size = 2), axis.text = element_text(colour = "black", size = 16),
-                              axis.line = element_line(size = 1), axis.title = element_text(size = 22), legend.background = element_blank(), legend.text = element_text(size = 16)),
-                      palette = c("#FDE725FF", "#238A8DFF", "#55C667FF",  "#404788FF"),
+                        theme(axis.ticks = element_line(size = 1), axis.text = element_text(colour = "black", size = 10),
+                              axis.line = element_line(size = 1), axis.title = element_text(size = 12), legend.background = element_blank(), legend.text = element_text(size = 10)),
+                      palette = c("#f0f921", "#FCA510", "#87CEDD",  "#1035AC"),
                       legend = c(0.15, 0.9), legend.title = "", xlab="Days", ylab = "Settlement probability", legend.labs = c("SS","SD","DS","DD"))
 
 setplot
+
 
 
 # Settlement - Pairwise comparison between treatments, fixed effects only, p value adj. method BH
@@ -303,27 +304,27 @@ res
 
 
 
-# Mortality
+# Mortality - simple model
 fitK = survfit(Surv(age_days, dead_status)~ treatment, data = K)
 summary(fitK)
 
 names(fitK$strata) <- gsub("treatment=", "", names(fitK$strata))
 
-deadplot <- ggsurvplot(fitK, size = 2,
+deadplot <- ggsurvplot(fitK, size = 1,
                        pval = TRUE, pval.method = TRUE,
                        pval.coord = c(0.15, 0.20),
                        pval.method.coord = c(0.25, 0.30),
-                      palette = c("#FDE725FF", "#238A8DFF", "#55C667FF",  "#404788FF"),
+                       palette = c("#f0f921", "#FCA510", "#87CEDD",  "#1035AC"),
                       ggtheme = theme_classic()+
-                        theme(axis.ticks = element_line(size = 2), axis.text = element_text(colour = "black", size = 16),
-                              axis.line = element_line(size = 1), axis.title = element_text(size = 22), legend.text = element_text(size = 16), legend.background = element_blank()),
+                        theme(axis.ticks = element_line(size = 1), axis.text = element_text(colour = "black", size = 10),
+                              axis.line = element_line(size = 1), axis.title = element_text(size = 12), legend.text = element_text(size = 12), legend.background = element_blank()),
                       legend = c(0.15, 0.58), legend.title = "", xlab="Days", ylab = "Survival probability", legend.labs = c("SS","SD","DS","DD"))
 
 deadplot
 
 
 #Mortality Pairwise comparison between treatments, fixed effects only, p value adj. method BH
-res <- pairwise_survdiff(Surv(age_days, dead_status) ~ treatment,
+res <- pairwise_survdiff(Surv(age_days, dead_status) ~  treatment,
                          data= K)
 res  
 # All treatments significantly different from each other, except SS and SD
@@ -336,9 +337,9 @@ res
 p <- plot_grid(deadplot, setplot, p.dead, p.set, labels = c('A', 'B', 'C', 'D'),
                          label_y = 0.985, label_size = 11,ncol = 2, align = "h", byrow = F)
 
-ggsave("Set.Dead_InSitu_2021&2022_final.jpeg", plot = p, width = 14, height = 10,dpi=300, 
+ggsave("Set.Dead_InSitu_2021&2022_recoloured.jpeg", plot = p, width = 14, height = 10,dpi=300, 
        units = "cm")
-ggsave("Set.Dead_InSitu_2021&2022_final.pdf", plot = p, width = 14, height = 10,dpi=300, 
+ggsave("Set.Dead_InSitu_2021&2022_recoloured.pdf", plot = p, width = 14, height = 10,dpi=300, 
        units = "cm")
 
 

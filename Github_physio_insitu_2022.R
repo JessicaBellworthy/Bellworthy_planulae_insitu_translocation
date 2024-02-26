@@ -110,8 +110,7 @@ stat.cells
 
 ##### GRAPHICS ####
 mytheme = theme_classic()+
-  theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black", size = 6), axis.title = element_text(size = 9))
-
+  theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black", size = 8), axis.title = element_text(size = 10))
 
 chl= ggplot(d, aes(y = ng.chl.spat, x = treatment))+
 geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5, alpha = 0.7, lwd = 0.2)+
@@ -119,7 +118,7 @@ geom_boxplot(outlier.shape = NA, aes(fill= treatment, alpha = 0.8), fatten = 0.5
 facet_wrap(facets = "age", nrow = 1)+
  mytheme+
   labs(y= ~ng ~chlorophyll ~ per ~spat)+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
 scale_y_continuous(limits = c(0, 700, 200))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
   stat_pvalue_manual(stat.chl, label = "{p.signif} {p}", tip.length = 0.005, hide.ns = FALSE, size = 2.5)+
@@ -133,7 +132,7 @@ prot= ggplot(d, aes(y = ug.protein.spat, x = treatment))+
   facet_wrap(facets = "age", nrow = 1)+
   mytheme+
   labs(y= ~μg ~protein ~ per ~spat)+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_y_continuous(limits = c(0, 270, 50))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
   stat_pvalue_manual(stat.prot, label = "{p.signif} {p}", tip.length = 0.005, hide.ns = FALSE, size = 2.5)+
@@ -148,7 +147,7 @@ cell= ggplot(d, aes(y = cells.spat, x = treatment))+
   facet_wrap(facets = "age", nrow = 1)+
   mytheme+
   labs(y= ~symbiont ~cells ~per ~spat)+
-  scale_fill_manual(values = c('#FDE725FF','#31688EFF'))+
+  scale_fill_manual(values = c("#f0f921", "#FCA510"))+
   scale_y_continuous(limits = c(5000, 23000, 5000))+
   theme(axis.title.x = element_blank(), axis.text = element_text(colour = "black"), strip.background = element_rect(size = 0.5))+
   stat_pvalue_manual(stat.cells, label = "{p.signif} {p}", tip.length = 0.005, hide.ns = FALSE, size = 2.5)+
@@ -161,10 +160,9 @@ physio.plots <- plot_grid(chl, cell,prot,labels = c('A', 'B', 'C'),label_x = 0.0
                       label_y = 0.985, label_size = 14,ncol = 1, align = "v", byrow = F, hjust =2)
 
 physio.plots
-ggsave("physio_insituStyloSpat_2022.jpeg", plot = physio.plots, width = 8, height = 12,dpi=300, 
+ggsave("physio_insituStyloSpat_2022_reclour.jpeg", plot = physio.plots, width = 12, height = 16,dpi=300, 
        units = "cm")
 
-ggsave("physio_insituStyloSpat_2022.pdf", plot = physio.plots, width = 8, height = 12,dpi=300, 
+ggsave("physio_insituStyloSpat_2022_reclour.pdf", plot = physio.plots, width = 12, height = 16,dpi=300, 
        units = "cm")
-
 
