@@ -166,3 +166,36 @@ ggsave("physio_insituStyloSpat_2022_reclour.jpeg", plot = physio.plots, width = 
 ggsave("physio_insituStyloSpat_2022_reclour.pdf", plot = physio.plots, width = 12, height = 16,dpi=300, 
        units = "cm")
 
+
+# PCA coral physiology
+
+library(stats)
+library(tidyverse)
+library(factoextra)
+
+p = read.csv("physioPCA.csv")
+head(p)
+str(p)
+p2 = p %>% remove_rownames %>% column_to_rownames(var="id")
+p2$treatment = factor(p2$treatment, levels = c("SS8","SS60","SD8","SD60"))
+
+pca = prcomp(p2[,c(1:3)], scale. = TRUE)
+pca
+fviz_eig(pca)  # gives scree plot of percentage of explained variance
+
+fviz_pca_var(pca,
+             col.var = "contrib", # Color by contributions to the PC
+             gradient.cols = c("#00AFBB", "#E7B800", "#FC4E07"),
+             repel = TRUE     # Avoid text overlapping
+)
+
+fviz_pca_biplot(pca, repel = TRUE,
+                mean.point = FALSE, # remove mean point
+                pointshape = 19, pointsize = 2,
+                label = "var", # labels to display
+                col.var = "black", # Variables color
+                col.ind = p2$treatment,# Individuals color
+                )+
+  scale_color_manual(values = c("#f0f921", "#FCA510", "lightblue", "blue"))+
+                theme(legend.title=element_blank())
+
